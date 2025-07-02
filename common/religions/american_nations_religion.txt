@@ -1,0 +1,7 @@
+﻿mormon = {
+    # Latter-day Saint faith definition
+    texture = "gfx/interface/icons/religion_icons/mormonism.dds"
+    traits = { christian }
+    color = { 0.9 0.9 0.6 }
+    taboos = { liquor coffee tobacco }
+}

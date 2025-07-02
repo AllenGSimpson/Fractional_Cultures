@@ -1,0 +1,74 @@
+﻿namespace = texan_war_of_independence
+
+texan_war_of_independence.2 = {
+    type = country_event
+    placement = scope:texas_capital
+    event_image = {
+        video = "unspecific_military_parade"
+    }
+
+    on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+    icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+    title = texan_war_of_independence.2.t
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                desc = texan_war_of_independence.2.d1
+                trigger = { has_variable = tex_annexation }
+            }
+            triggered_desc = {
+                desc = texan_war_of_independence.2.d2
+                trigger = { has_variable = tex_subject }
+            }
+            triggered_desc = {
+                desc = texan_war_of_independence.2.d3
+                trigger = { has_variable = tex_independent }
+            }
+        }
+    }
+    flavor = texan_war_of_independence.2.f
+
+    duration = 3
+
+    trigger = { }
+
+    immediate = {
+        c:TEX = {
+            save_scope_as = texas_scope
+            capital = {
+                save_scope_as = texas_capital
+            }
+        }
+    }
+
+    option = {
+        name = texan_war_of_independence.2.a
+        default_option = yes
+        trigger = { has_variable = tex_annexation }
+        annex = c:TEX
+        add_primary_culture = cu:texan
+    }
+    option = {
+        name = texan_war_of_independence.2.b
+        default_option = yes
+        trigger = { has_variable = tex_subject }
+        create_diplomatic_pact = {
+            country = c:TEX
+            type = protectorate
+        }
+    }
+    option = {
+        name = texan_war_of_independence.2.c
+        default_option = yes
+        trigger = { has_variable = tex_independent }
+        change_relations = {
+            country = c:TEX
+            value = -30
+        }
+        s:STATE_TEXAS = {
+            add_claim = c:USA
+        }
+    }
+}

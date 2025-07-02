@@ -1,0 +1,91 @@
+﻿l_english:
+ usfp_mormon.1.t: "The [SCOPE.sState('missouri_scope').GetName] [SCOPE.sReligion('mormonism_scope').GetName] War"
+ usfp_mormon.1.d: "Tensions in [SCOPE.sState('missouri_scope').GetName] between mainstream Protestants and an eccentric sect calling themselves the Latter Day Saints have boiled over into open violence. Protestant vigilantes have committed massacres and clashed with [SCOPE.sReligion('mormonism_scope').GetName] militias. After running afoul of state troopers, the entire sect has now been forced out of their homes by the local government, fleeing north to [SCOPE.sState('illinois_scope').GetName]."
+ usfp_mormon.1.f: ""The Mormons have adopted the attitude of an open and avowed defiance of the laws, and have now made war upon the people of this state. They must be treated as enemies, and must be exterminated or driven from the state if necessary for the public peace — their outrages are beyond all description. If you can increase your force, you are authorized to do so to any extent you may consider necessary."" #Mormon extermination order
+ usfp_mormon.1.a: "Such violence is un-Christian."
+ usfp_mormon.1.b: "This cult is nothing but a pack of troublemakers."
+
+ usfp_mormon.2.t: "Killing of Joseph Smith"
+ usfp_mormon.2.d: "Even after relocating to [SCOPE.sState('illinois_scope').GetName] and establishing their own town of Nauvoo, friction between Mormons and Protestants has continued to escalate. After mayor Joseph Smith, prophet of the Mormons, ordered the destruction of an anti-Mormon newspaper, he was called to stand trial in a state court. While awaiting trial in jail, Smith and other Mormons have been set upon by an angry mob and shot to death."
+ usfp_mormon.2.f: ""War and extermination is inevitable! Citizens ARISE, ONE and ALL!!!—Can you stand by, and suffer such INFERNAL DEVILS! To ROB men of their property and RIGHTS, without avenging them. We have no time for comment, every man will make his own. LET IT BE MADE WITH POWDER AND BALL!!!"" #Warsaw Signal
+ usfp_mormon.2.b: "This is a gross miscarriage of justice!"
+ usfp_mormon.2.a: "Smith and his lackeys brought this on themselves."
+
+ usfp_mormon.3.t: "The [SCOPE.sReligion('mormonism_scope').GetName] Exodus"
+ usfp_mormon.3.d: "With peaceful coexistence seemingly impossible, the Mormons have elected to migrate west and seek a new home for their faith. Their newly elevated leader Brigham Young has called together all of his followers into great wagon trains, which have already begun to depart across the Oregon Trail. Their ultimate destination has yet to be determined."
+ usfp_mormon.3.f: ""We are to leave to a far distant region of the West, where we shall begin a new epoch in the history of the Church."" #Brigham Young
+ usfp_mormon.3.a: "Farewell, Mormons."
+ usfp_mormon.3.a.t: "All [SCOPE.sReligion('mormonism_scope').GetName] [Concept('concept_pop', '$concept_pops$')] in [SCOPE.sState('illinois_scope').GetName] will depart for parts unknown"
+
+ usfp_mormon.4.t: "A New Zion"
+ usfp_mormon.4.d: "Word has reached us that the Mormons have established a colony in [SCOPE.sState('utah_scope').GetStateRegion.GetName] and formed a religious government known as [SCOPE.sCountry('deseret_scope').GetName]. The settlers appear to have no desire to found their own independent country, instead intending to remain in the political orbit of the [ROOT.GetCountry.GetName]. It is also rumored that the settlers have begun to openly practice polygamy as a tenet of their faith."
+ usfp_mormon.4.f: ""The word of the Lord, was, 'go to that valley and the best place you can find in it is the spot.' Well, I prayed that he would lead us directly to the best spot, which he has done, for after searching we can find no better."" #Brigham Young
+ usfp_mormon.4.a: "The Mormons will secure [SCOPE.sState('utah_scope').GetStateRegion.GetName] for the [ROOT.GetCountry.GetName]."
+ usfp_mormon.4.b: "These cultists chose their exile."
+
+ usfp_mormon.5.t: "The State of Deseret?"
+ usfp_mormon.5.d: "The Mormons of [SCOPE.sCountry('deseret_scope').GetName] have drafted a state constitution and are petitioning for acceptance into the Union. Their proposed constitution is silent on the matter of slavery, and some in [concept_usfp_congress] have raised concerns about the heavy influence of the LDS Church on the local government."
+ usfp_mormon.5.d_noslavery: "The Mormons of [SCOPE.sCountry('deseret_scope').GetName] have drafted a state constitution and are petitioning for acceptance into the Union. Some in [concept_usfp_congress] have raised concerns about the heavy influence of the LDS Church on the local government, deriding the Mormons as theocrats in all but name."
+ usfp_mormon.5.f: ""We therefore, ask your honorable body to favorably consider their interests; and, if consistent with the constitution and usages of the federal government, that our constitution be ratified, and that the State of Deseret be admitted into the Union on an equal footing with other States; or such other form of civil government as your wisdom and magnanimity may award to the people of Deseret."" #Deseret to the House
+ usfp_mormon.5.a: "The Mormons have earned their state."
+ usfp_mormon.5.b: "Let's not get too hasty. Deseret will be reorganized as the Utah Territory."
+ usfp_mormon.5.c: "The Mormons must abandon polygamy before we will treat with them."
+
+ usfp_mormon.6.t: "The Polygamy Ultimatum"
+ usfp_mormon.6.d: "The [SCOPE.sCountry('usa_scope').GetName] has demanded that we cease our practice of plural marriage before they will consider any official negotiations with us."
+ usfp_mormon.6.f: ""The practice of polygamy is incongruous with the pure and the free, the just and safe principles inaugurated by the American Revolution.""
+ usfp_mormon.6.a: "We must be pragmatic and accept this compromise."
+ usfp_mormon.6.b: "We cannot forsake divinely-ordained practices."
+
+ usfp_mormon.7.t: "Mormons Refuse"
+ usfp_mormon.7.d: "[SCOPE.sCountry('deseret_scope').GetName] has refused to end their practice of polygamy, claiming that the [ROOT.GetCountry.GetAdjective] principles of religious freedom should extend to their own religious practices."
+ usfp_mormon.7.f: ""There is no exaltation without polygamy, it is key to our place in God's kingdom!""
+ usfp_mormon.7.a: "This is unacceptable."
+
+ usfp_mormon.8.t: "Mormons Accept"
+ usfp_mormon.8.d: "In response to our ultimatum, the Mormons of [SCOPE.sCountry('deseret_scope').GetName] have officially ended the practice of polygamy within their church."
+ usfp_mormon.8.f: ""There is nothing in my teachings to the Church or in those of my associates, during the time specified, which can be reasonably construed to inculcate or encourage polygamy; and when any Elder of the Church has used language which appeared to convey such teaching, he has been promptly reproved. And I now publicly declare that my advice to the Latter-day Saints is to refrain from contracting any marriage forbidden by the law of the land."" #1890 Manifesto
+ usfp_mormon.8.a: "With this matter settled, Deseret will be admitted to the Union."
+ usfp_mormon.8.b: "Deseret will be reorganized as the Utah Territory."
+
+ usfp_mormon.9.t: "The Twin Relics of Barbarism"
+ usfp_mormon.9.d: "The [SCOPE.sReligion('mormonism_scope').GetName] practice of polygamy continues to be a contentious issue in [ROOT.GetCountry.GetAdjective] politics. The [SCOPE.sParty('republican_party_scope').GetName] has openly drawn a link between polygamy and slavery, calling them both 'twin relics of barbarism' practiced only by those of low moral character."
+ usfp_mormon.9.f: ""It is both the right and the imperative duty of Congress to prohibit in the Territories those twin relics of barbarism - Polygamy, and Slavery. The two systems - that of Utah and that of South Carolina - have so many points of resemblance, that they will make common cause in self-defense."" #1856 Republican Platform + Chicago Press and Tribune
+ usfp_mormon.9.a: "Both of these vile practices belong in the dustbin!"
+ usfp_mormon.9.b: "The one has nothing to do with the other!"
+
+ usfp_mormon.10.t: "An End to Polygamy"
+ usfp_mormon.10.d: "Facing unrelenting opposition from [ROOT.GetCountry.GetAdjective] society and local governments, the Church of Jesus Christ of Latter-Day Saints has officially renounced the practice of plural marriage, forbidding any further such unions from taking place among its members."
+ usfp_mormon.10.f: ""There is nothing in my teachings to the Church or in those of my associates, during the time specified, which can be reasonably construed to inculcate or encourage polygamy; and when any Elder of the Church has used language which appeared to convey such teaching, he has been promptly reproved. And I now publicly declare that my advice to the Latter-day Saints is to refrain from contracting any marriage forbidden by the law of the land."" #1890 Manifesto
+ usfp_mormon.10.a: "Perhaps we can finally put this issue to rest."
+
+ usfp_mormon.11.t: "A Mormon Rebellion?"
+ usfp_mormon.11.d: "Several federal officials assigned to the [SCOPE.sCountry('deseret_scope').GetName] have returned with scathing reports against [SCOPE.sCharacter('deseret_ruler_scope').GetFullName]'s administration there. The officials claim that the Mormons have been flaunting federal law, and instead only recognize the authority of their Church. They are warning the government that [SCOPE.sCharacter('deseret_ruler_scope').GetFullName] must be immediately replaced in order to prevent a full blown [SCOPE.sReligion('mormonism_scope').GetName] rebellion."
+ usfp_mormon.11.f: "The stack of reports detailed allegations against the Mormons from numerous officials. Murder, theft, fraud, even outright treason. Somewhere in the pile was likely a report that the Mormons habitually kicked dogs and toasted Satan himself. From all the way in Washington, it was hard to tell the difference between real issues and slanderous gossip."
+ usfp_mormon.11.a: "Federal troops will take control of the territory and replace [SCOPE.sCharacter('deseret_ruler_scope').GetFullName]."
+ usfp_mormon.11.b: "We will not be so tactless as to invade our own territory."
+
+ usfp_mormon.12.t: "The Utah Peace Commission"
+ usfp_mormon.12.d: "Seeing our actions as an attempt to destroy the Mormon church, [SCOPE.sCharacter('deseret_ruler_scope').GetFullName] intends to adopt a scorched earth policy in [SCOPE.sState('utah_scope').GetName]. In an attempt to avoid bloodshed, our agents in the region have brokered a deal that would grant pardon to all Mormons involved, in exchange for the removal of [SCOPE.sCharacter('deseret_ruler_scope').GetFullName] and the peaceful entry of Federal troops."
+ usfp_mormon.12.f: ""We are offering the inhabitants of Utah, who shall submit to the laws, a free pardon for seditions and treasons heretofore by them committed; and warning those who shall persist, after notice of this proclamation, in the present rebellion against the United States, that they must expect no further leniency.""
+ usfp_mormon.12.a: "An acceptable resolution."
+ usfp_mormon.12.b: "These rebels must be crushed through force."
+
+ usfp_mormon.13.t: "Fate of the Saints"
+ usfp_mormon.13.d: "With [SCOPE.sState('utah_scope').GetName] now under our firm control, outraged voices within the [SCOPE.gsInterestGroup('ig_devout').GetName] are calling for the Church of Latter-Day Saints to be outlawed and destroyed."
+ usfp_mormon.13.f: ""It is not in the power of the United States to destroy this people, For they are in the hands of God, and so are we; and he will do with us as he pleases — and if we do right, God will preserve us."" #Brigham Young
+ usfp_mormon.13.a: "We will respect their right to their religion."
+ usfp_mormon.13.b: "Their 'church' is nothing but a seditious cult!"
+ usfp_mormon.13.b.t: "The Saints will be driven underground, and all [SCOPE.sReligion('mormonism_scope').GetName] [Concept('concept_pop', '$concept_pops$')] will "convert" to [SCOPE.sReligion('protestantism_scope').GetName]"
+
+ usfp_mormon.14.t: "[SCOPE.sReligion('mormonism_scope').GetName] Shoots [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetLastNameNoFormatting]!"
+ usfp_mormon.14.d: "[ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetLastName] has been shot in the streets of [ROOT.GetCountry.GetCapital.GetCityHubName]! After being apprehended, the gunman was identified as a radical [SCOPE.sReligion('mormonism_scope').GetName] seeking vengeance for the government's actions against his church. The [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] has been rushed to the hospital in critical condition."
+ usfp_mormon.14.f: ""Make way! Make way! The President has been shot! The President has been shot, my God!""
+ usfp_mormon.14.a: "This is an outrage!"
+ lds_church: "Church of Jesus Christ of Latter-Day Saints"
+ lds_church_desc: "The Mormon Church was founded during the Second Great Awakening by Joseph Smith, who is said to have recieved new revelations from God in the form of golden tablets. The church's distinct beliefs and practices, including polygamy, put them at odds with most of the rest of Christian society."
+ usfp_lds_church_des: "Theodemocracy"
+ usfp_lds_farms: "United Orders"
+ usfp_lds_church_utah: "Church of Jesus Christ of Latter-Day Saints"
+ usfp_removal_martyr: "Martyred Leader"
+ usfp_third_party_system_modifier: "Third Party System"
