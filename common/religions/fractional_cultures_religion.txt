@@ -5,3 +5,500 @@
     color = { 0.9 0.9 0.6 }
     taboos = { liquor coffee tobacco }
 }
+coptic = {
+    texture = "gfx/interface/icons/religion_icons/coptic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+armenian_orthodox = {
+    texture = "gfx/interface/icons/religion_icons/coptic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+syriac_orthodox = {
+    texture = "gfx/interface/icons/religion_icons/coptic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+ethiopian_tewahedo = {
+    texture = "gfx/interface/icons/religion_icons/coptic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+lutheran = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+anglican = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+episcopal = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+calvinist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+presbyterians = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+puritans = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+congregationalist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+baptist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+methodist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+pietist_evangelical = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+evangelical = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+restorationist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+quakers = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+amish = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+mennonite = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+hutterite = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+zaidi = {
+    texture = "gfx/interface/icons/religion_icons/sunni.dds"
+    traits = { muslim }
+    color = { 0.6 0.3 0.2 }
+}
+
+ismaili = {
+    texture = "gfx/interface/icons/religion_icons/sunni.dds"
+    traits = { muslim }
+    color = { 0.6 0.3 0.2 }
+}
+
+ibadi = {
+    texture = "gfx/interface/icons/religion_icons/sunni.dds"
+    traits = { muslim }
+    color = { 0.6 0.3 0.2 }
+}
+
+alevi = {
+    texture = "gfx/interface/icons/religion_icons/shiite.dds"
+    traits = { muslim }
+    color = { 0.6 0.3 0.2 }
+}
+
+ashkenazi = {
+    texture = "gfx/interface/icons/religion_icons/jewish.dds"
+    traits = { jewish }
+    color = { 0.6 0.3 0.2 }
+}
+
+sephardi = {
+    texture = "gfx/interface/icons/religion_icons/jewish.dds"
+    traits = { jewish }
+    color = { 0.6 0.3 0.2 }
+}
+
+mizrahi = {
+    texture = "gfx/interface/icons/religion_icons/jewish.dds"
+    traits = { jewish }
+    color = { 0.6 0.3 0.2 }
+}
+
+vajrayana = {
+    texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+    traits = { buddhist eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+folk_shinto = {
+    texture = "gfx/interface/icons/religion_icons/shinto.dds"
+    traits = { eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+japanese_buddhism = {
+    texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+    traits = { buddhist eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+daoist = {
+    texture = "gfx/interface/icons/religion_icons/confucianism.dds"
+    traits = { eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+shenist = {
+    texture = "gfx/interface/icons/religion_icons/confucianism.dds"
+    traits = { eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+musok = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+jain = {
+    texture = "gfx/interface/icons/religion_icons/hindu.dds"
+    traits = { eastern }
+    color = { 0.6 0.3 0.2 }
+}
+
+yoruba_ifa = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+akan_abosom = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+kongo_bukongo = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+ewe_fon_vodun = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+east_bantu_mganga = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+nilotic_ancestral = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+horn_waaq = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+shona_mhondoro = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+zulu_unkulunkulu = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+san_dreamtime = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+haitian_vodou = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+louisiana_vodun = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+brazil_candomble = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+maroon_kumina = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+afro_caribbean_santeria = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+gullah_baptist = {
+    texture = "gfx/interface/icons/religion_icons/protestant.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+woodland_spirit = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+iroquoian_longhouse = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+southeast_ceremonial = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+plains_sundance = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+southwest_pueblo = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+dine_diyin = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+great_basin_shamanic = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+california_kuksu = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+nw_coast_potlatch = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+inuit_sila = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+mexica_tlaloc = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+maya_popol = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+oaxacan_cloud = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+tarascan_moon = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+totonac_papantla = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+garifuna_dugu = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+mexican_catholic = {
+    texture = "gfx/interface/icons/religion_icons/catholic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+andes_pachamama = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+aymara_achachila = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+amazon_yage = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+mapuche_ngen = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+pampas_tehuelche = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+guarani_tupa = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+quechua_catholic = {
+    texture = "gfx/interface/icons/religion_icons/catholic.dds"
+    traits = { christian }
+    color = { 0.6 0.3 0.2 }
+}
+
+australasian_dreamtime = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+siberian_shamanism = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+polynesian_traditional = {
+    texture = "gfx/interface/icons/religion_icons/animist.dds"
+    traits = { animist }
+    color = { 0.6 0.3 0.2 }
+}
+
+deism = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+humanism = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+freemason = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+rosicrucian = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+gnostic_spiritist = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+theosophist = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
+fourierist = {
+    texture = "gfx/interface/icons/religion_icons/atheist.dds"
+    color = { 0.6 0.3 0.2 }
+}
+
