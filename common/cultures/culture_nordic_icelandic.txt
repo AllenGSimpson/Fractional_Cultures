@@ -1,0 +1,67 @@
+﻿icelandic = {
+    color = rgb{ 62 77 100 }
+    religion = protestant
+    traits = { scandinavian_culture_group european_heritage }
+    male_common_first_names = {
+        Agnar
+        Bjorn_2
+        Eidur
+        Einar
+        Emil
+        Geir
+        Gudmund
+        Gunnar
+        Hannes
+        Hermann
+        J_On
+        Kristjan
+        Magnus_2
+        Petur
+        Sigurdur
+        Stefan_2
+        Sveinn
+        Tryggvi
+        Asgeir
+        Olafur
+        Steingrimur
+        Hallgrimur
+    }
+    female_common_first_names = {
+        Agnes
+        Briet
+        Hansina
+        Regina
+        Rosa
+        Steinunn
+        Thorfhildur
+        Vilhelmina
+    }
+    noble_last_names = {
+        Hielmstierne
+        Petursson
+        Sveinsson
+        Thorberg
+        Thordersen
+        Vidalin
+    }
+    common_last_names = {
+        Arnorsson
+        Benediktsson
+        Bjarnasen
+        Bjornsson
+        Eggers
+        Eldjarn
+        Hafstein
+        Hansen
+        Hermannsson
+        Johanesson
+        Jonsson
+        Magnusson
+        Stefansson
+        Steinthosson
+        Thorlaksson
+    graphics = european
+    ethnicities = {
+        1 = caucasian
+    }
+}
