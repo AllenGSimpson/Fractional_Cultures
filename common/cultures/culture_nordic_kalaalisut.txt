@@ -1,0 +1,60 @@
+﻿kalaalisut = {
+    color = rgb{ 62 77 100 }
+    religion = protestant
+    traits = { scandinavian_culture_group european_heritage }
+    male_common_first_names = {
+        Caubvick
+        David
+        Ernie
+        Germaine
+        Markoosie
+        Ipeelee
+        Jack
+        James
+        Jose_2
+        Kenojuak
+        Naalak
+        Peter
+        Pitseolak
+        Steve
+        Simeonie
+        Titus
+    }
+    female_common_first_names = {
+        Alacie
+        Beatrice
+        Josephine
+        Madeline
+        Mina
+        Mitiarjuk
+        Sheila
+    }
+    noble_last_names = {
+        Atagotaaluk
+        Tullaugaq
+    }
+    common_last_names = {
+        Alakannuark
+        Arreak
+        Ashoona
+        Enuaraq
+        Evaloarjuk
+        Ipeelee
+        Irgittuq
+        Keenainak
+        Kunuk
+        Kusugak
+        Maksagak
+        Nappaaluk
+        Nutarak
+        Paniloo
+        Piugattuk
+        Pudluk
+        Tiktaalaaq
+        Ungallaq
+        Quissa
+    graphics = european
+    ethnicities = {
+        1 = caucasian
+    }
+}
