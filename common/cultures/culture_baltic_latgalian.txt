@@ -1,0 +1,23 @@
+latgalian = {
+    color= hsv{ 0.96 0.65 0.70 }
+    religion = protestant
+    traits = { baltic_culture_group european_heritage }
+    male_common_first_names = {
+        Kristaps Anatolijs Eriks Janis Viktors
+    }
+    female_common_first_names = {
+        Lauma Sofija Liga Ilze Viktorija
+    }
+    noble_last_names = {
+        von_Borh von_Rikmanis
+    }
+    common_last_names = {
+        Cernovs Vilcans Skrastins Znotins Zvirgzds
+    }
+    male_regal_first_names = { Janis }
+    female_regal_first_names = { Sofija }
+    graphics = european
+    ethnicities = {
+        1 = slavic
+    }
+}
