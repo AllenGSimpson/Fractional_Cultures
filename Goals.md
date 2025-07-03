@@ -8,7 +8,7 @@ _A clear charter for the **Victoria 3 — “Patchwork Worlds”** culture�
 * **Replace every vanilla mega‑culture** (e.g., *Han*, *North German*, *Italian*, *Russian*) with the **regional, self‑aware cultures that still existed in 1836**.  
 * **Let players watch and influence** the 19th‑century process by which literacy, railways, state policy and war **fuse those patchworks into modern “nation” cultures**.  
 * **Enrich diplomacy, revolt risk and migration flavour** without sacrificing AI performance or overwhelming new players.
-
+* **Diversify Religion** The 1800's was not a world where religion was unimportant, only that it's dominance in life was not as strong as during previous ages.
 ---
 
 ## 2 Design Principles
@@ -310,3 +310,102 @@ _Total new culture tags: ≈ 195_
 | **Arabic** | iraqi_arab  | Baghdad, Basra |
 | **Arabic** | levantine_arab  | Damascus, Beirut, Aleppo |
 | **Arabic** | mashriqi | Hejaz |
+
+## 9 Religious Breakdown
+| Macro-Religion | Sub-Religion | Desc | 
+|--------------|-----------|----------------|
+| Orthodox | catholic | Vanilla | 
+| Orthodox | orthodox | Vanilla | 
+| Orthodox | coptic | oriental_orthodox in Egypt | 
+| Orthodox | armenian_orthodox | oriental_orthodox in Caucuses and further east | 
+| Orthodox | syriac_orthodox | oriental_orthodox in middle east | 
+| Orthodox | ethiopian_tewahedo | oriental_orthodox in Ethiopia | 
+| high_church | lutheran | Germany | 
+| high_church | anglican | England | 
+| high_church | episcopal | US | 
+| reformed | calvinist | tbd | 
+| reformed | presbyterians | tbd | 
+| reformed | puritans | New England minority | 
+| low_church | congregationalist | New England majority | 
+| low_church | baptist | tbd | 
+| low_church | methodist | tbd | 
+| low_church | pietist_evangelical | european low_church | 
+| low_church | evangelical | US-UK revival | 
+| low_church | restorationist | US frontier | 
+| anabaptist | quakers | US-UK revival | 
+| anabaptist | amish | tbd | 
+| anabaptist | mennonite | tbd | 
+| anabaptist | hutterite | tbd | 
+| Islamic | sunni | Vanilla | 
+| Islamic | shia | Vanilla | 
+| Islamic | zaidi | Yemen | 
+| Islamic | ismaili | Syria | 
+| Islamic | ibadi  | Oman, Zanzibar | 
+| Islamic | alevi | Anatolia | 
+| Jewish | ashkenazi | Poland, Russia, Germany | 
+| Jewish | sephardi | Ottoman ports, Spain, North Africa | 
+| Jewish | mizrahi | Persia, Mesopotamia, Yemen Judeo‑Arabic; small starting POP | 
+| Buhddist | Mahayana | Desc |
+| Buhddist | Theravada | Desc |
+| Buhddist | Vajrayana | Desc |
+| Japanese | folk_shinto | Pre-Restoration folk religion |
+| Japanese | shinto | Post-Restoration State-Shinto |
+| Japanese-Buhddist | japanese_buddhism | Japanese Buhddism
+| Chinese | Confucian | State Religion |
+| Chinese | daoist | Folk Religion |
+| Chinese | shenist | Folk Religion |
+| Korean | musok | Folk Religion |
+| Indian | hindu | tbd |
+| Indian | jain | tbd |
+| Indian | Sikh | Punjab |
+| african | yoruba_ifa | Oyo, Lagos, Dahomey |
+| african | akan_abosom | Ashanti, Gold Coast |
+| african | kongo_bukongo | Kongo, Luanda, Malanje |
+| african | ewe_fon_vodun | Togo littoral, Dahomey coast |
+| african | east_bantu_mganga | Zanzibar, Tanganyika, Buganda |
+| african | nilotic_ancestral | Upper Nile: South Sudan, Acholi |
+| african | horn_waaq | Ethiopia’s Oromo, Somali highlands |
+| african | shona_mhondoro | Mashonaland, Manica |
+| african | zulu_unkulunkulu | Natal, Transvaal |
+| african | san_dreamtime | Kalahari & Cape interior |
+| african | haitian_vodou | Haiti |
+| african | louisiana_vodun | Louisiana |
+| african-Low‑church | gullah_baptist  | Carolina Low Country & Georgia Sea Islands |
+| african | brazil_candomble | Bahia |
+| african | maroon_kumina | Jamaica |
+| african | afro_caribbean_santeria | Cuban & Gulf-Port slave communities |
+| north_american | woodland_spirit | replaces animist Ojibwe, Odawa, Potawatomi, Anishinaabe; Great Lakes & upper St Lawrence |
+| north_american | iroquoian_longhouse | Haudenosaunee Six Nations; upstate NY + Grand River ON |
+| north_american | southeast_ceremonial | Muscogee/Creek, Cherokee, Choctaw, Seminole |
+| north_american | plains_sundance | Lakota, Dakota, Cheyenne, Blackfoot, Crow, Arapaho |
+| north_american | southwest_pueblo | Hopi, Zuni, Tewa, Tiwa, Keres; Rio Grande pueblos |
+| north_american | diné_diyin | Navajo; Four Corners sheep belt |
+| north_american | great_basin_shamanic | Paiute, Shoshone, Ute; Nevada–Utah deserts |
+| north_american | california_kuksu | Pomo, Maidu, Wintu, Patwin; Sacramento & coastal ranges |
+| north_american | nw_coast_potlatch | Tlingit, Haida, Kwakwaka’wakw, Coast Salish |
+| north_american | inuit_sila | Inuit & Yupik across Arctic |
+| mesoamerican | mexica_tlaloc | Nahua-speakers of the Mexican-Central plateau (Puebla, Tlaxcala, State of Mexico, Guerrero uplands) |
+| mesoamerican | maya_popol | Yucatán Maya, K’iche’ & Q’eqchi’ Highlands, Chiapas Tzotzil/Tzeltal |
+| mesoamerican | oaxacan_cloud | Oaxaca valleys & Sierra Mixe |
+| mesoamerican | tarascan_moon | Michoacán lake-basin |
+| mesoamerican | totonac_papantla | Totonac & Huastec Gulf coast (Papantla) |
+| mesoamerican | garifuna_dugu | Caribbean coast Belize–Honduras |
+| mesoamerican-orthodox | mexican_catholic | Rural mestizo majority; blankets Guadalupe devotion |
+| south_american | andes_pachamama | Peru (Cuzco, Arequipa), Bolivia (La Paz, Potosí), Ecuador Highlands |
+| south_american | aymara_achachila | Lake Titicaca & Altiplano (Oruro, Puno) |
+| south_american | amazon_yagé | Upper Amazon states: Loreto, Ucayali, Putumayo |
+| south_american | mapuche_ngen | Araucanía & Patagonia north (pre-colonised S. Argentina & Chile) |
+| south_american | pampas_tehuelche | Patagonian steppe south of Río Negro |
+| south_american | guarani_tupã | Paraguay interior & Jesuit mission ruins in Misiones |
+| south_american-orthodox | quechua_catholic | Urban Cuzco, Quito, La Paz; valleys with strong mission presence |
+| indigenous | australasian_dreamtime | replaces animist |
+| indigenous | siberian_shamanism | replaces animist |
+| indigenous | polynesian_traditional | replaces animist |
+| Secular | atheist | *actual athiesm* socialist circles, and bolsheviks, still counts as "no religion" |
+| Secular | deism | anglo-french intelligensia, US founders, transitionary |
+| Secular | humanism | secular humanism, small pops of academics in Paris, Vienna, Berlin |
+| Esoteric-Secular | freemason | Urban elites of France, UK, USA; Piedmont; Spanish America; Egypt (Muhammad Ali’s circle) |
+| Esoteric | rosicrucian | Berlin, Vienna, Stockholm, St Petersburg salons |
+| Esoteric | gnostic_spiritist | Paris, Rio de Janeiro, New York after 1850 |
+| Esoteric | theosophist | No POPs before 1875 (Blavatsky) |
+| Esoteric | fourierist  | France, US (Brook Farm), Brazil (Conde d’Eu projects) |
