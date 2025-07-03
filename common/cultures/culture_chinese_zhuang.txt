@@ -1,0 +1,54 @@
+zhuang= {
+	color= hsv{ 0.92 0.32 0.88 }
+	religion = animist
+	traits = { tai east_asian_heritage }
+	male_common_first_names = {
+		Be
+		Duc
+		Hoang
+		Le
+		Nong
+		Quoc
+		Quynh
+		The
+		Van
+	}
+	female_common_first_names = {
+		Akew
+		Jin
+		Jinhong
+		Junying
+		Qingtang
+		Sanniang
+		Shanziang
+		Shih
+		Taiqing
+		Xiefen
+		Xiugu
+		Xuanjiao
+		Yu
+		Yunmei
+	}
+	noble_last_names = {
+		Cui
+		Li
+		Nie
+		Zhang
+	}
+	common_last_names = {
+		Cao
+		Chan
+		Den
+		Hau
+		Khanh
+		Manh
+		Phach
+		Phung
+		Thu
+		Trieu
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = east_asian
+}
