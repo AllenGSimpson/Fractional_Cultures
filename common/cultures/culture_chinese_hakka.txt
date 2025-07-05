@@ -1,4 +1,4 @@
-hakka= {
+﻿hakka= {
 	color= hsv{ 0.1 0.43 0.34 }
 	religion = confucian
 	traits = { han_chinese east_asian_heritage }

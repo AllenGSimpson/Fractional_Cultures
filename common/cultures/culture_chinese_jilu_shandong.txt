@@ -1,4 +1,4 @@
-jilu_shandong= {
+﻿jilu_shandong= {
 	color= rgb{ 190 80 48 }
 	religion = confucian
 	traits = { sinosphere han_chinese east_asian_heritage }

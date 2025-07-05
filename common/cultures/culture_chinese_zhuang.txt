@@ -1,4 +1,4 @@
-zhuang= {
+﻿zhuang= {
 	color= hsv{ 0.92 0.32 0.88 }
 	religion = animist
 	traits = { tai east_asian_heritage }

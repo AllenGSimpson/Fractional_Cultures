@@ -1,4 +1,4 @@
-kentish= { # "English" in localization
+﻿kentish= { # "English" in localization
 	color= rgb{ 210 156 140 }
 	religion = protestant
 	traits = { anglophone european_heritage }

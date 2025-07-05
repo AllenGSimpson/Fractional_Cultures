@@ -1,4 +1,4 @@
-cyprean= {
+﻿cyprean= {
 	color= hsv{ 0.94 0.45 0.48 }
 	religion = orthodox
 	traits = { greek_culture european_heritage }

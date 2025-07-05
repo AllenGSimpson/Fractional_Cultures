@@ -1,4 +1,4 @@
-bosniak= {
+﻿bosniak= {
 	color= hsv{ 0.50 0.55 0.58 }
 	religion = sunni
 	traits = { jugoslav european_heritage }

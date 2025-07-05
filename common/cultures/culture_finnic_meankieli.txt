@@ -1,4 +1,4 @@
-meankieli= {
+﻿meankieli= {
 	color= hsv{ 0 0 0.86 }
 	religion = protestant
 	traits = { finnic scandinavian_culture_group european_heritage }

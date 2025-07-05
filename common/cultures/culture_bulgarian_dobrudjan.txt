@@ -1,4 +1,4 @@
-dobrudjan= {
+﻿dobrudjan= {
 	color= hsv{ 0.40 0.26 0.58 }
 	religion = orthodox
 	traits = { jugoslav european_heritage }

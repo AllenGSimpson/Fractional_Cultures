@@ -1,4 +1,4 @@
-estonian = {
+﻿estonian = {
     color= hsv{ 0.72 0.25 0.28 }
     religion = protestant
     traits = { finnic baltic_culture_group european_heritage }

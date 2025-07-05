@@ -1,4 +1,4 @@
-livonian = {
+﻿livonian = {
     color= hsv{ 0.80 0.50 0.60 }
     religion = protestant
     traits = { finnic baltic_culture_group european_heritage }

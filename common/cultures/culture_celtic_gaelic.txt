@@ -1,4 +1,4 @@
-gaelic= {
+﻿gaelic= {
 	color= hsv{ 0.35 0.58 0.54 }
 	religion = catholic
 	traits = { celtic_people european_heritage }

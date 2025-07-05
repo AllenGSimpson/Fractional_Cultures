@@ -1,4 +1,4 @@
-yue_cantonese= {
+﻿yue_cantonese= {
 	color= hsv{ 0.80 0.36 0.39 }
 	religion = confucian
 	traits = { han_chinese east_asian_heritage}

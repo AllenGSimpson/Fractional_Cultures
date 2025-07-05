@@ -1,4 +1,4 @@
-latgalian = {
+﻿latgalian = {
     color= hsv{ 0.96 0.65 0.70 }
     religion = protestant
     traits = { baltic_culture_group european_heritage }

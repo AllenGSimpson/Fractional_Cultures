@@ -1,4 +1,4 @@
-levantine_arab = {
+﻿levantine_arab = {
     color= hsv{ 0.34 0.48 0.71 }
     religion = sunni
     traits = { arab_speaking middle_eastern_heritage }

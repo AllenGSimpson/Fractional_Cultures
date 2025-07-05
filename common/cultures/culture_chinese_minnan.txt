@@ -1,4 +1,4 @@
-minnan= {
+﻿minnan= {
 	color= hsv{ 0.71 0.54 0.78 }
 	religion = confucian
 	traits = { han_chinese east_asian_heritage }

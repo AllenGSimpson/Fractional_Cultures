@@ -1,4 +1,4 @@
-dong= {
+﻿dong= {
 	color= hsv{ 0.62 0.46 0.50 }
 	religion = animist
 	traits = { hmong_mien_language east_asian_heritage }

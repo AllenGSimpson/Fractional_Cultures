@@ -1,4 +1,4 @@
-tosk= {
+﻿tosk= {
 	color= hsv{ 0.10 0.60 0.44 }
 	religion = sunni
 	traits = { albanian_language european_heritage }

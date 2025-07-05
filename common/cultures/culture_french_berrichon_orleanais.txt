@@ -1,4 +1,4 @@
-berrichon_orleanais= {
+﻿berrichon_orleanais= {
 	color= rgb{ 76 118 155 }
 	religion = catholic
 	traits = { francophone european_heritage }

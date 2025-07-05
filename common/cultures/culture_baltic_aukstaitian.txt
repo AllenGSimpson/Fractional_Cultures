@@ -1,4 +1,4 @@
-aukstaitian = {
+﻿aukstaitian = {
     color= hsv{ 0.42 0.48 0.83 }
     religion = catholic
     traits = { baltic_culture_group european_heritage }

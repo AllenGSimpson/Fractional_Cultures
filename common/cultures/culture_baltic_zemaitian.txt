@@ -1,4 +1,4 @@
-zemaitian = {
+﻿zemaitian = {
     color= hsv{ 0.42 0.55 0.75 }
     religion = catholic
     traits = { baltic_culture_group european_heritage }

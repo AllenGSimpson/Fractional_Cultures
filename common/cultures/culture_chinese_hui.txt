@@ -1,4 +1,4 @@
-hui= {
+﻿hui= {
 	color= rgb{ 190 80 48 }
 	religion = sunni
 	traits = { sinosphere han_chinese east_asian_heritage }
