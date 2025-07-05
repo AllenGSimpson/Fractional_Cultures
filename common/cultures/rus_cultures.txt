@@ -1,0 +1,2999 @@
+# culture_rus.txt
+pomor= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+vologdan= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+vyatkan= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+kargopolian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+novgorodian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+tverian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+muscovite= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+riazanian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+upper_volgan= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+lower_volgan= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+donian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+kubanian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+azovian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+black_sea_littoral= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+slobodan= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+podolian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+polesian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+podlasian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+grodnian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+vilnian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+galician_volhynian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+bessarabian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+trans_uralian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+yeniseian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+lena_olyokmin= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+sakhalin_amurian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+russian= {
+	color= hsv{ 0.35 0.40 0.37 }
+	religion = orthodox
+	traits = { east_slavic european_heritage }
+	male_common_first_names = {
+		Aleksandr Alexei Andrei Anton
+		Boris
+		Dmitry
+		Fyodor
+		Gennady Giorgi Grigoriy
+		Igor Ivan
+		Kirill Konstantin
+		Lavr Leonid Lev
+		Maxim Mikhail
+		Nikita Nikolai
+		Oleg
+		Pavel Pyotr
+		Roman
+		Semyon Sergei
+		Valery Vasily Viktor Vladimir Vladislav
+		Yegor Yevgeny Yuri
+	}
+	female_common_first_names = {
+		Aleksandra Anastasiya Anna Avdotya
+		Daria
+		Elena Elizabeta Evgenia Evlalia
+		Kira
+		Lydia Lyobov
+		Maria
+		Natalya
+		Olga
+		Sofia
+		Tatiana
+		Varvara Vera Yekaterina Yulia
+		Xenia
+		Zinaida
+	}
+	noble_last_names = {
+		Adlerberg
+		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
+		Dolgorukov Demidov
+		Fikelmon
+		Greig Gruzinsky Golitsyn
+		Ignatiev Ivelich
+		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
+		Hoyningen-Huene
+		Lopukhin Lobanov-Rostovsky
+		Matveyev von_Mohrenheim Meshchersky
+		Orlov
+		Pistohlkors Putyatin
+		Rostopchin Rumyantsev Romanov
+		Saltykov
+		Tolstoy
+		Volkonsky
+		Witte
+		Yengalychev Yusupov Yuryevsky
+	}
+	common_last_names = {
+		Alexseyev Antonov Azarov
+		Badanov Brusilov Budyonny Bolkhovitinov
+		Chibisov
+		Denikin Dragomirov
+		Frolov
+		Golovin Grishin Gurko
+		Ivanov
+		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
+		Lazarev
+		Makarov Menshikov
+		Nakhimov Nebogatov Nikolaevich
+		Ostrovsky
+		Pavlov Putyatin
+		Rozhestvensky
+		Shuvalov Skobelev Surkov Sorokin
+		Tukhachevsky
+		Vorontsov Voroshilov
+		Yegorov Yudenich
+		Zavoyko
+	}
+	male_regal_first_names = {
+		Aleksandr Alexei
+		Ivan
+		Kirill Konstantin
+		Mikhail
+		Nikolai
+		Pavel Pyotr
+	}
+	female_regal_first_names = {
+		Anastasiya Anna
+		Elena Elizabeta Evgenia
+		Kira
+		Maria
+		Olga
+		Xenia
+		Yekaterina
+	}
+	regal_last_names = {
+		Belevsky-Zhukovsky
+		Konstantinovich
+		Mikhailovich
+		Nikolaevich
+		Pavlovich Paley
+		Romanov
+		Vladimirovich
+	}
+
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+
