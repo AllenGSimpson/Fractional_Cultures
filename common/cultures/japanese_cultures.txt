@@ -1,4 +1,4 @@
-# culture_japanese_ainu.txt
+﻿# culture_japanese_ainu.txt
 ainu= {
 	color= hsv{ 0 0 0.5 }
 	religion = animist

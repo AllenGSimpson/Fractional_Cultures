@@ -1,4 +1,4 @@
-# culture_nordic_danish.txt
+﻿# culture_nordic_danish.txt
 ﻿danish = {
     color = rgb{ 62 77 100 }
     religion = protestant

@@ -1,4 +1,4 @@
-# culture_slovene_carniolan.txt
+﻿# culture_slovene_carniolan.txt
 carniolan= {
 	color= rgb{ 159 174 96 }
 	religion = catholic

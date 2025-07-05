@@ -1,4 +1,4 @@
-# culture_albanian_arvanite.txt
+﻿# culture_albanian_arvanite.txt
 arvanite= {
 	color= hsv{ 0.10 0.60 0.44 }
 	religion = sunni

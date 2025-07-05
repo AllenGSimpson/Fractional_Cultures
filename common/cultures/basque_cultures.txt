@@ -1,4 +1,4 @@
-# culture_basque.txt
+﻿# culture_basque.txt
 basque= {
 	color= hsv{ 0.12 0.56 0.86 }
 	religion = catholic

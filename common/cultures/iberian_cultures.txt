@@ -1,4 +1,4 @@
-# culture_iberian_andalusian.txt
+﻿# culture_iberian_andalusian.txt
 andalusian= {
 	color= hsv{ 0.16 0.56 0.86 }
 	religion = catholic

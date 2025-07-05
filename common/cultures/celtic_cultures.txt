@@ -1,4 +1,4 @@
-# culture_celtic_cornish.txt
+﻿# culture_celtic_cornish.txt
 cornish= { # "English" in localization
 	color= rgb{ 210 156 140 }
 	religion = protestant

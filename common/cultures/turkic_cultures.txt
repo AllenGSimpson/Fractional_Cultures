@@ -1,4 +1,4 @@
-# culture_turkic_aegean_turk.txt
+﻿# culture_turkic_aegean_turk.txt
 aegean_turk = {
     color= hsv{ 0.99 0.48 0.80 }
     religion = sunni

@@ -1,4 +1,4 @@
-# culture_baltic_aukstaitian.txt
+﻿# culture_baltic_aukstaitian.txt
 aukstaitian = {
     color= hsv{ 0.42 0.48 0.83 }
     religion = catholic

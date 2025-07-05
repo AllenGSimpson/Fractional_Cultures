@@ -1,4 +1,4 @@
-# culture_bulgarian_dobrudjan.txt
+﻿# culture_bulgarian_dobrudjan.txt
 dobrudjan= {
 	color= hsv{ 0.40 0.26 0.58 }
 	religion = orthodox

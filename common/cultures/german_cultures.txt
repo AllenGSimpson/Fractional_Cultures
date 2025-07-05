@@ -1,4 +1,4 @@
-# culture_german_alemannic.txt
+﻿# culture_german_alemannic.txt
 alemannic= {
 	color= hsv{ 0.50 0.43 0.45 }
 	religion = catholic

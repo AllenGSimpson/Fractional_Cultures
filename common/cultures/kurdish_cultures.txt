@@ -1,4 +1,4 @@
-# culture_kurdish_kurmanji.txt
+﻿# culture_kurdish_kurmanji.txt
 kurmanji = {
     color= hsv{ 0.59 0.51 0.79 }
     religion = sunni

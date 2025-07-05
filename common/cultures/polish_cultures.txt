@@ -1,4 +1,4 @@
-# culture_polish_galicyjski.txt
+﻿# culture_polish_galicyjski.txt
 galicyjski= {
 	color= hsv{ 0 0.22 0.5 }
 	religion = catholic

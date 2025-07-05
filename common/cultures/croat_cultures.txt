@@ -1,4 +1,4 @@
-# culture_croat_chakavian.txt
+﻿# culture_croat_chakavian.txt
 chakavian= {
 	color= hsv{ 0.66 0.06 0.74 }
 	religion = catholic

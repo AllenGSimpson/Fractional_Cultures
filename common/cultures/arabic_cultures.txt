@@ -1,4 +1,4 @@
-# culture_arabic_iraqi_arab.txt
+﻿# culture_arabic_iraqi_arab.txt
 iraqi_arab = {
     color= hsv{ 0.34 0.48 0.71 }
     religion = sunni

@@ -1,4 +1,4 @@
-# culture_rus.txt
+﻿# culture_rus.txt
 pomor= {
 	color= hsv{ 0.35 0.40 0.37 }
 	religion = orthodox

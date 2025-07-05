@@ -1,4 +1,4 @@
-# culture_italian_apulian.txt
+﻿# culture_italian_apulian.txt
 apulian= {
 	color= rgb{ 97 77 117 }
 	religion = catholic

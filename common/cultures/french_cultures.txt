@@ -1,4 +1,4 @@
-# culture_french.txt
+﻿# culture_french.txt
 french= {
 	color= rgb{ 76 118 155 }
 	religion = catholic

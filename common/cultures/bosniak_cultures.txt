@@ -1,4 +1,4 @@
-# culture_bosniak_bosniak.txt
+﻿# culture_bosniak_bosniak.txt
 bosniak= {
 	color= hsv{ 0.50 0.55 0.58 }
 	religion = sunni

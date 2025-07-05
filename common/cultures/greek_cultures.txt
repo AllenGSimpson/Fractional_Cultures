@@ -1,4 +1,4 @@
-# culture_greek_cappadocian.txt
+﻿# culture_greek_cappadocian.txt
 cappadocian= {
 	color= hsv{ 0.94 0.45 0.48 }
 	religion = orthodox

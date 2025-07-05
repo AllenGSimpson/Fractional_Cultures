@@ -1,4 +1,4 @@
-# culture_finnic_alander.txt
+﻿# culture_finnic_alander.txt
 alander= {
 	color= hsv{ 0 0 0.86 }
 	religion = protestant

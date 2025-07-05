@@ -1,4 +1,4 @@
-# culture_chinese_ba_shu.txt
+﻿# culture_chinese_ba_shu.txt
 ba_shu= {
 	color= rgb{ 190 80 48 }
 	religion = confucian
