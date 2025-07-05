@@ -1,5 +1,5 @@
-rhenish= {
-	color= hsv{ 0.50 0.43 0.45 }
+﻿rhenish= {
+	color= rgb{ 57 82 99 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

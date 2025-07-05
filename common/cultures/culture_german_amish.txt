@@ -1,5 +1,5 @@
-﻿amish= {
-	color= rgb{ 62 77 100 }
+amish= {
+	color= rgb{ 61 101 107 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

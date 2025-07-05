@@ -1,5 +1,5 @@
 ﻿brandenburgish= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 25 53 73 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

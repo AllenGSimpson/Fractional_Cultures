@@ -1,5 +1,5 @@
-alsatian= {
-	color= hsv{ 0.50 0.43 0.45 }
+﻿alsatian= {
+	color= rbg { 63 106 110 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

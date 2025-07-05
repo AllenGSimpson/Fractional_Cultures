@@ -1,5 +1,5 @@
 ﻿prussian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 0 31 53 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

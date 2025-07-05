@@ -1,5 +1,5 @@
-silesian= {
-	color= hsv{ 0.50 0.43 0.45 }
+﻿silesian= {
+	color= rgb{ 32 65 81 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

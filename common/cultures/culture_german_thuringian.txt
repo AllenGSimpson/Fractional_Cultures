@@ -1,5 +1,5 @@
 ﻿thuringian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 56 86 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

@@ -1,5 +1,5 @@
-austrian= {
-	color= hsv{ 0.50 0.43 0.45 }
+﻿austrian= {
+	color= rbg { 62 108 110 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {

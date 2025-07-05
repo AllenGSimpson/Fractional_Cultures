@@ -1,7 +1,7 @@
 ﻿pennsilfaanisch_deitsch= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 57 85 100 }
 	religion = protestant
-	traits = { german_speaking european_heritage }
+	traits = { german_speaking anglophone european_heritage american_heritage }
 	male_common_first_names = {
 		Adelbert Adolf Albrecht Alexander Alfred August
 		Bernhard Burkhard Bruno
