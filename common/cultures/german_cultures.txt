@@ -1,6 +1,6 @@
 ﻿# culture_german_alemannic.txt
 alemannic= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb { 63 107 110 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -127,7 +127,7 @@ alemannic= {
 
 # culture_german_alsatian.txt
 alsatian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb { 63 106 110 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -254,7 +254,7 @@ alsatian= {
 
 # culture_german_amish.txt
 amish= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 61 101 107 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -375,7 +375,7 @@ amish= {
 
 # culture_german_austrian.txt
 austrian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb { 62 108 110 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -502,7 +502,7 @@ austrian= {
 
 # culture_german_bavarian.txt
 bavarian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb { 61 104 109 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -629,7 +629,7 @@ bavarian= {
 
 # culture_german_brandenburgish.txt
 brandenburgish= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 25 53 73 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -750,7 +750,7 @@ brandenburgish= {
 
 # culture_german_estphalian.txt
 estphalian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 47 69 90 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -871,7 +871,7 @@ estphalian= {
 
 # culture_german_franconian.txt
 franconian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb { 58 95 104 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -998,7 +998,7 @@ franconian= {
 
 # culture_german_hessian.txt
 hessian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 55 82 98 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1119,7 +1119,7 @@ hessian= {
 
 # culture_german_mennonite.txt
 mennonite= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 56 81 98 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1240,9 +1240,9 @@ mennonite= {
 
 # culture_german_pennsilfaanisch_deitsch.txt
 pennsilfaanisch_deitsch= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 57 85 100 }
 	religion = protestant
-	traits = { german_speaking european_heritage }
+	traits = { german_speaking anglophone european_heritage american_heritage  }
 	male_common_first_names = {
 		Adelbert Adolf Albrecht Alexander Alfred August
 		Bernhard Burkhard Bruno
@@ -1361,7 +1361,7 @@ pennsilfaanisch_deitsch= {
 
 # culture_german_plautdietsch.txt
 plautdietsch= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 27 54 74 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1482,7 +1482,7 @@ plautdietsch= {
 
 # culture_german_pomeranian.txt
 pomeranian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 19 47 68 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1603,7 +1603,7 @@ pomeranian= {
 
 # culture_german_prussian.txt
 prussian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 0 31 53 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1724,7 +1724,7 @@ prussian= {
 
 # culture_german_rhenish.txt
 rhenish= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb{ 57 82 99 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1851,7 +1851,7 @@ rhenish= {
 
 # culture_german_saxon.txt
 saxon= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 38 66 84 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -1972,7 +1972,7 @@ saxon= {
 
 # culture_german_silesian.txt
 silesian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb{ 32 65 81 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -2099,7 +2099,7 @@ silesian= {
 
 # culture_german_swabian.txt
 swabian= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb{ 61 105 109 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -2226,7 +2226,7 @@ swabian= {
 
 # culture_german_thuringian.txt
 thuringian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 56 86 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -2347,7 +2347,7 @@ thuringian= {
 
 # culture_german_tyrolean.txt
 tyrolean= {
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb{ 56 86 100 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
@@ -2474,7 +2474,7 @@ tyrolean= {
 
 # culture_german_westphalian.txt
 westphalian= {
-	color= rgb{ 62 77 100 }
+	color= rgb{ 63 109 111 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names = {
