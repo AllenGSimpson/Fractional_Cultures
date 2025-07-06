@@ -253,7 +253,7 @@ alsatian= {
 }
 
 # culture_german_amish.txt
-﻿amish= {
+amish= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -628,7 +628,7 @@ bavarian= {
 }
 
 # culture_german_brandenburgish.txt
-﻿brandenburgish= {
+brandenburgish= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -749,7 +749,7 @@ bavarian= {
 }
 
 # culture_german_estphalian.txt
-﻿estphalian= {
+estphalian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -997,7 +997,7 @@ franconian= {
 }
 
 # culture_german_hessian.txt
-﻿hessian= {
+hessian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1118,7 +1118,7 @@ franconian= {
 }
 
 # culture_german_mennonite.txt
-﻿mennonite= {
+mennonite= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1239,7 +1239,7 @@ franconian= {
 }
 
 # culture_german_pennsilfaanisch_deitsch.txt
-﻿pennsilfaanisch_deitsch= {
+pennsilfaanisch_deitsch= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1360,7 +1360,7 @@ franconian= {
 }
 
 # culture_german_plautdietsch.txt
-﻿plautdietsch= {
+plautdietsch= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1481,7 +1481,7 @@ franconian= {
 }
 
 # culture_german_pomeranian.txt
-﻿pomeranian= {
+pomeranian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1602,7 +1602,7 @@ franconian= {
 }
 
 # culture_german_prussian.txt
-﻿prussian= {
+prussian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -1850,7 +1850,7 @@ rhenish= {
 }
 
 # culture_german_saxon.txt
-﻿saxon= {
+saxon= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -2225,7 +2225,7 @@ swabian= {
 }
 
 # culture_german_thuringian.txt
-﻿thuringian= {
+thuringian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
@@ -2473,7 +2473,7 @@ tyrolean= {
 }
 
 # culture_german_westphalian.txt
-﻿westphalian= {
+westphalian= {
 	color= rgb{ 62 77 100 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
