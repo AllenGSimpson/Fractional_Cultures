@@ -137,10 +137,7 @@
 				culture = spanish
 				size = 121
 			}
-			create_pop = { # Polish population centered mainly on Cazale. About 400 Poles stayed behind in Haiti after the war.
-				culture = polish
-				size = 390
-			}
+			create_pop = { culture = malopolski			religion = catholic		size = 390							} # Polish population centered mainly on Cazale. About 400 Poles stayed behind in Haiti after the war. The Poles who remained in Haiti after the 1802–03 expedition were almost all ex‑Legionnaires recruited out of the Kraków–Lesser‑Poland districts (then Austrian Galicia). Contemporary parish records at Cazale list family names and baptism sponsors drawn from villages north of Kraków and around Nowy Sącz.
 			create_pop = { # Remnants of the 1824 migration scheme
 				culture = afro_american
 				size = 212

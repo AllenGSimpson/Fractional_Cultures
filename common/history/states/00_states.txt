@@ -217,6 +217,7 @@ STATES = {
 		}
 
 		add_homeland = cu:pomeranian
+		add_homeland = cu:kaszebsczi
 	}
 	s:STATE_INGRIA = {
 		create_state = {
@@ -7323,7 +7324,9 @@ STATES = {
 			owned_provinces = { x906060 x11E061 }
 		}
 
-		add_homeland = cu:polish
+		add_homeland = cu:malopolski
+		add_homeland = cu:galicyjski
+		add_homeland = cu:goralski
 		add_homeland = cu:eastern_slovak
 	}
 	s:STATE_EAST_GALICIA = {
@@ -7332,7 +7335,7 @@ STATES = {
 			owned_provinces = { xA2805F x9D8087 xCDD223 x11A021 xCAE5B0 x8F9F20 xE369C4 xA3CF78 xB021A0 x053163 x4D0305 xC1B262 xEFE270 x489C42 x7EDD9E x53932F xC58E1C xD0E061 }
 		}
 
-		add_homeland = cu:polish
+		add_homeland = cu:galicyjski
 		add_homeland = cu:eastern_slovak
 		add_homeland = cu:ukrainian
 	}
@@ -7511,7 +7514,8 @@ STATES = {
 
 		add_homeland = cu:prussian
 		add_homeland = cu:plautdietsch
-		add_homeland = cu:polish
+		add_homeland = cu:wielkopolski
+		add_homeland = cu:kujawsko
 	}
 	s:STATE_WESTPHALIA = {
 		create_state = {
@@ -7551,7 +7555,8 @@ STATES = {
 		add_homeland = cu:plautdietsch
 		add_homeland = cu:pomeranian
 		add_homeland = cu:prussian
-		add_homeland = cu:polish
+		add_homeland = cu:mazurski
+		add_homeland = cu:warminski
 	}
 	s:STATE_EAST_PRUSSIA = {
 		create_state = {
@@ -7561,7 +7566,8 @@ STATES = {
 
 		add_homeland = cu:plautdietsch
 		add_homeland = cu:prussian
-		add_homeland = cu:polish
+		add_homeland = cu:mazurski
+		add_homeland = cu:warminski
 		add_homeland = cu:lithuanian
 	}
 	s:STATE_RHINELAND = {
@@ -7600,7 +7606,7 @@ STATES = {
 
 		add_homeland = cu:silesian
 		add_homeland = cu:lachian
-		add_homeland = cu:polish
+		add_homeland = cu:slonsko_godka
 	}
 	s:STATE_BRANDENBURG = {
 		create_state = {
@@ -7794,7 +7800,7 @@ STATES = {
 			state_type = unincorporated
 		}
 
-		add_homeland = cu:polish
+		add_homeland = cu:wielkopolski
 		add_homeland = cu:plautdietsch
 	}
 	s:STATE_LESSER_POLAND = {
@@ -7804,7 +7810,8 @@ STATES = {
 			state_type = unincorporated
 		}
 
-		add_homeland = cu:polish
+		add_homeland = cu:malopolski
+		add_homeland = cu:goralski
 		add_homeland = cu:plautdietsch
 	}
 	s:STATE_MAZOVIA = {
@@ -7814,7 +7821,8 @@ STATES = {
 			state_type = unincorporated
 		}
 		add_homeland = cu:plautdietsch
-		add_homeland = cu:polish
+		add_homeland = cu:mazowiecki
+		add_homeland = cu:podlaski
 	}
 	s:STATE_VOLHYNIA = {
 		create_state = {
@@ -7822,6 +7830,7 @@ STATES = {
 			owned_provinces = { x0EB3C7 x1A9FFE x364496 x37A636 x5A26AE x71E0A0 x80FB0F x8201CF xAC3079 xAFEBC8 xE001E0 xE2F553 }
 		}
 
+		add_homeland = cu:kresowiak
 		add_homeland = cu:ukrainian
 	}
 	s:STATE_KIEV = {

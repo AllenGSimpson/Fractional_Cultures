@@ -107,7 +107,7 @@
 				size = 14894
 			}
 			create_pop = {
-				culture = polish
+				culture = kresowiak
 				size = 433
 			}
 			create_pop = {
