@@ -426,7 +426,12 @@
 			
 			create_pop = { culture = ashkenazi		religion = jewish		size = 1996 }
 			create_pop = { culture = hungarian	 	religion = catholic		size = 16000 }
-			create_pop = { culture = czech			religion = catholic		size = 24000 }
+			
+			create_pop = { culture = bohemian		religion = catholic		size = 10800 }
+			create_pop = { culture = moravian		religion = protestant	size = 7200 }
+			create_pop = { culture = lachian		religion = catholic		size = 3600 }
+			create_pop = { culture = western_slovak	religion = catholic		size = 2400 }
+
 			create_pop = { culture = hungarian		religion = protestant	size = 8000 }
 		}
 	}
@@ -434,8 +439,8 @@
 		region_state:AUS = {
 			
 			# Catholic block
-			create_pop = { culture = saxon			religion = catholic		size =  498620 }
-			create_pop = { culture = bavarian		religion = catholic		size =  370403 }
+			create_pop = { culture = saxon			religion = catholic		size =	696266 }	
+			create_pop = { culture = bavarian		religion = catholic		size =	499143 }
 			create_pop = { culture = silesian		religion = catholic		size =  341911 }
 			create_pop = { culture = franconian	 	religion = catholic		size =  142463 }
 			create_pop = { culture = austrian		religion = catholic		size =  71231 }
@@ -446,8 +451,14 @@
 			create_pop = { culture = franconian		religion = protestant	size =  11997 }
 			create_pop = { culture = austrian		religion = protestant	size =  10497 }
 
-			create_pop = { culture = czech			religion = catholic		size = 2574808 }
-			create_pop = { culture = ashkenazi		religion = jewish		size = 75996 }
+			create_pop = { culture = bohemian		religion = catholic		size =	926931 }
+			create_pop = { culture = bohemian		religion = protestant	size =	514962 }
+			create_pop = { culture = moravian		religion = catholic		size =	257481 }
+			create_pop = { culture = lachian		religion = catholic		size =	386221 }
+			create_pop = { culture = sorb			religion = catholic		size =	77244 }
+			create_pop = { culture = western_slovak	religion = catholic		size =	102992 }
+
+			create_pop = { culture = ashkenazi		religion = jewish		size =	75996 }
 		}
 	}
 	s:STATE_MORAVIA = {
@@ -455,12 +466,17 @@
 			
 			# Catholic block
 			create_pop = { culture = austrian		religion = catholic		size =  216184 }
-			create_pop = { culture = silesian		religion = catholic		size =  120102 }
+			create_pop = { culture = silesian		religion = catholic		size =  142742 }
 			create_pop = { culture = saxon			religion = catholic		size =  72061 }
 			create_pop = { culture = franconian	 	religion = catholic		size =  48041 }
 			create_pop = { culture = swabian		religion = catholic		size =  24020 }
 
-			create_pop = { culture = czech			religion = catholic		size = 1131996 }
+			create_pop = { culture = moravian		religion = catholic		size = 735797 }
+			create_pop = { culture = bohemian		religion = catholic		size = 169799 }
+			create_pop = { culture = lachian		religion = catholic		size = 113200 }
+			create_pop = { culture = western_slovak	religion = catholic		size = 56600 }	
+			create_pop = { culture = central_slovak	religion = catholic		size = 33960 }			
+
 			create_pop = { culture = ashkenazi		religion = jewish		size = 28000 }
 			create_pop = { culture = polish			religion = catholic 	size = 56004 }
 		}
@@ -1018,8 +1034,7 @@
 			# Lutheran & mixed block
 			create_pop = { culture = saxon   		religion = protestant	size =  799267 }
 			create_pop = { culture = thuringian		religion = protestant	size =  290642 }
-			create_pop = { culture = silesian		
-				religion = protestant	size =  145321 }
+			create_pop = { culture = silesian		religion = protestant	size =  145321 }
 			create_pop = { culture = estphalian   	religion = protestant	size =  87193 }
 			create_pop = { culture = franconian		religion = protestant	size =  72661 }
 			create_pop = { culture = brandenburgish religion = protestant	size =  58128 }
@@ -1029,17 +1044,12 @@
 			create_pop = { culture = franconian		religion = catholic 	size = 3251 }
 			create_pop = { culture = rhenish 		religion = catholic 	size = 1951 }
 			create_pop = { culture = westphalian   	religion = catholic 	size = 1430 }
-			create_pop = { culture = bavarian		
-				religion = catholic 	size = 1170  }
+			create_pop = { culture = bavarian		religion = catholic 	size = 1170  }
 
 
-			create_pop = { culture = ashkenazi		religion = jewish		size = 5072}
-			create_pop = { # rough estimate of 200k Sorbs in 1836
-				culture = sorb
-				size = 150106}
-			create_pop = { culture = sorb
-				religion = protestant
-				size = 50106 }
+			create_pop = { culture = ashkenazi		religion = jewish		size = 5072 }
+			create_pop = { culture = sorb									size = 150106 } # rough estimate of 200k Sorbs in 1836
+			create_pop = { culture = sorb			religion = protestant	size = 50106 }
 		}
 		region_state:MEI = {
 			

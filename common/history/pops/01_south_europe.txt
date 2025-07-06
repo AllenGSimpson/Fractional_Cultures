@@ -619,27 +619,14 @@
 	}
 	s:STATE_CROATIA = {
 		region_state:AUS = {
-			create_pop = {
-				culture = croat
-				size = 563592
-			}
-			create_pop = {
-				culture = czech
-				religion = catholic
-				size = 20004
-			}
-			create_pop = {
-				culture = hungarian
-				size = 28000
-			}
+			create_pop = { culture = croat			religion = catholic		size = 563592 }
+			create_pop = { culture = moravian		religion = catholic		size = 12002 }
+			create_pop = { culture = bohemian		religion = catholic		size = 8002 }
+			create_pop = { culture = hungarian		religion = catholic		size = 28000 }
 			create_pop = { culture = swabian		religion = catholic		size =  28277 }
 			create_pop = { culture = austrian		religion = catholic		size =  6463 }
 			create_pop = { culture = bavarian		religion = catholic		size =  5655 }
-
-			create_pop = {
-				culture = serb
-				size = 176000
-			}
+			create_pop = { culture = serb			religion = catholic		size = 176000 }
 		}
 	}
 	s:STATE_SLAVONIA = {

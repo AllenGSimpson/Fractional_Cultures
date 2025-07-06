@@ -565,10 +565,8 @@
 			create_pop = { culture = prussian		religion = protestant	size =  10205 }
 			create_pop = { culture = plautdietsch	religion = protestant	size =  8572 }
 			create_pop = { culture = hessian		religion = protestant	size =  7756 }
-			create_pop = {
-				culture = czech
-				size = 10026
-			}
+			create_pop = { culture = bohemian		religion = catholic		size = 6016 }
+			create_pop = { culture = moravian		religion = catholic		size = 4010 }
 			create_pop = {
 				culture = russian
 				size = 716
@@ -644,7 +642,7 @@
 				size = 2097
 			}
 			create_pop = {
-				culture = czech
+				culture = lachian
 				size = 239
 			}
 			create_pop = {
