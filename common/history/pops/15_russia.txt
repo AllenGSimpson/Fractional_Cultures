@@ -17,13 +17,12 @@
 				culture = russian
 				size = 40028
 			}
-			create_pop = {
-				culture = polish
-				size = 75418
-			}
-			create_pop = { culture = prussian		religion = protestant	size =  1031 }
-			create_pop = { culture = rhenish		religion = protestant	size =  619 }
-			create_pop = { culture = silesian		religion = protestant	size =  412 }
+			create_pop = { culture = kresowiak			religion = catholic		size = 64105830							}
+			create_pop = { culture = podlaski			religion = catholic		size = 11313830							}
+
+			create_pop = { culture = prussian			religion = protestant	size =  1031 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  619 							}
+			create_pop = { culture = silesian			religion = protestant	size =  412 							}
 
 			create_pop = {
 				culture = tatar
@@ -45,8 +44,8 @@
 				culture = latvian
 				size = 354472
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  28698 }
-			create_pop = { culture = rhenish		religion = protestant	size =  7174 }
+			create_pop = { culture = prussian			religion = protestant	size =  28698	 						}
+			create_pop = { culture = rhenish			religion = protestant	size =  7174 							}
 
 			create_pop = {
 				culture = ashkenazi
@@ -66,7 +65,7 @@
 			}
 			create_pop = {
 				culture = ugrian
-				religion = protestant
+					religion = protestant
 				size = 2360
 			}
 			create_pop = {
@@ -89,9 +88,9 @@
 				culture = russian
 				size = 11175
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  7374 }
-			create_pop = { culture = silesian		religion = protestant	size =  1475 }
-			create_pop = { culture = rhenish		religion = protestant	size =  983 }
+			create_pop = { culture = prussian			religion = protestant	size =  7374 							}
+			create_pop = { culture = silesian			religion = protestant	size =  1475 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  983 							}
 		}
 	}
 	s:STATE_TALINN = { #DONE
@@ -108,8 +107,8 @@
 				culture = swedish
 				size = 4424
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  9859 }
-			create_pop = { culture = rhenish		religion = protestant	size =  2465 }
+			create_pop = { culture = prussian			religion = protestant	size =  9859 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  2465 							}
 		}
 	}
 	s:STATE_RIGA = { #DONE
@@ -118,9 +117,9 @@
 				culture = latvian
 				size = 362898
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  31665 }
-			create_pop = { culture = brandenburgish	religion = protestant	size =  11083 }
-			create_pop = { culture = rhenish		religion = protestant	size =  10027 }
+			create_pop = { culture = prussian			religion = protestant	size =  31665 							}
+			create_pop = { culture = brandenburgish		religion = protestant	size =  11083 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  10027 							}
 
 			create_pop = {
 				culture = estonian
@@ -132,7 +131,7 @@
 			}
 			create_pop = {
 				culture = ugrian #Livs
-				religion = protestant
+					religion = protestant
 				size = 900
 			}
 			create_pop = {
@@ -197,9 +196,9 @@
 				culture = polish
 				size = 136510
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  18456 }
-			create_pop = { culture = rhenish		religion = protestant	size =  5273 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  2637 }
+			create_pop = { culture = prussian			religion = protestant	size =  18456	 						}
+			create_pop = { culture = rhenish			religion = protestant	size =  5273 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  2637 							}
 
 			create_pop = {
 				culture = russian
@@ -221,11 +220,11 @@
 				culture = ashkenazi
 				size = 180591
 			}
-			create_pop = { culture = brandenburgish	religion = protestant	size =  15800 }
-			create_pop = { culture = prussian		religion = protestant	size =  11850 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  5266 }
-			create_pop = { culture = silesian		religion = protestant	size =  3950 }
-			create_pop = { culture = rhenish		religion = protestant	size =  2633 }
+			create_pop = { culture = brandenburgish		religion = protestant	size =  15800 							}
+			create_pop = { culture = prussian			religion = protestant	size =  11850 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  5266 							}
+			create_pop = { culture = silesian			religion = protestant	size =  3950 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  2633 							}
 			create_pop = {
 				culture = russian
 				size = 53083
@@ -248,18 +247,18 @@
 			}
 			create_pop = {
 				culture = polish
-				religion = protestant
+					religion = protestant
 				size = 30000
 			}
 			create_pop = {
 				culture = ashkenazi
 				size = 358977
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  19751 }
-			create_pop = { culture = brandenburgish	religion = protestant	size =  9875 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  4000 }
-			create_pop = { culture = rhenish		religion = protestant	size =  3900 }
-			create_pop = { culture = westphalian	religion = protestant	size =  1975 }
+			create_pop = { culture = prussian			religion = protestant	size =  19751 							}
+			create_pop = { culture = brandenburgish		religion = protestant	size =  9875 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  4000 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  3900 							}
+			create_pop = { culture = westphalian		religion = protestant	size =  1975 							}
 			create_pop = {
 				culture = russian
 				size = 60600
@@ -274,18 +273,18 @@
 			}
 			create_pop = {
 				culture = polish
-				religion = protestant
+					religion = protestant
 				size = 26000
 			}
 			create_pop = {
 				culture = ashkenazi
 				size = 117162
 			}
-			create_pop = { culture = silesian		religion = protestant	size =  6882 }
-			create_pop = { culture = prussian		religion = protestant	size =  4916 }
-			create_pop = { culture = rhenish		religion = protestant	size =  3736 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  2752 }			
-			create_pop = { culture = franconian		religion = protestant	size =  1376 }
+			create_pop = { culture = silesian			religion = protestant	size =  6882 							}
+			create_pop = { culture = prussian			religion = protestant	size =  4916 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  3736 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  2752 							}			
+			create_pop = { culture = franconian			religion = protestant	size =  1376 							}
 
 			create_pop = {
 				culture = ukrainian
@@ -317,7 +316,7 @@
 			}
 			create_pop = {
 				culture = finnish
-				religion = orthodox
+					religion = orthodox
 				size = 15000
 			}
 			create_pop = {
@@ -450,7 +449,7 @@
 			}
 			create_pop = {
 				culture = ugrian
-				religion = orthodox
+					religion = orthodox
 				size = 64328
 			}
 		}
@@ -561,12 +560,12 @@
 				culture = polish
 				size = 44400
 			}
-			create_pop = { culture = brandenburgish	religion = protestant	size =  14286 }
-			create_pop = { culture = prussian		religion = protestant	size =  10205 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  8572 }
-			create_pop = { culture = hessian		religion = protestant	size =  7756 }
-			create_pop = { culture = bohemian		religion = catholic		size = 6016 }
-			create_pop = { culture = moravian		religion = catholic		size = 4010 }
+			create_pop = { culture = brandenburgish		religion = protestant	size =  14286 							}
+			create_pop = { culture = prussian			religion = protestant	size =  10205 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  8572 							}
+			create_pop = { culture = hessian			religion = protestant	size =  7756 							}
+			create_pop = { culture = bohemian			religion = catholic		size = 6016 							}
+			create_pop = { culture = moravian			religion = catholic		size = 4010 							}
 			create_pop = {
 				culture = russian
 				size = 716
@@ -579,11 +578,11 @@
 				culture = ukrainian
 				size = 2610320
 			}
-			create_pop = { culture = prussian		religion = protestant	size =  9038 }
-			create_pop = { culture = brandenburgish	religion = protestant	size =  7531 }
-			create_pop = { culture = rhenish		religion = catholic		size =  6025 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  4519 }
-			create_pop = { culture = swabian		religion = catholic		size =  3013 }
+			create_pop = { culture = prussian			religion = protestant	size =  9038 							}
+			create_pop = { culture = brandenburgish		religion = protestant	size =  7531 							}
+			create_pop = { culture = rhenish			religion = catholic		size =  6025 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  4519 							}
+			create_pop = { culture = swabian			religion = catholic		size =  3013 							}
 
 			create_pop = {
 				culture = ashkenazi
@@ -617,10 +616,10 @@
 				culture = tatar
 				size = 75704
 			}
-			create_pop = { culture = plautdietsch	religion = protestant	size =  12049 }
-			create_pop = { culture = swabian		religion = catholic		size =  9038 }
-			create_pop = { culture = rhenish		religion = protestant	size =  4820 }
-			create_pop = { culture = hessian		religion = protestant	size =  4218 }
+			create_pop = { culture = plautdietsch		religion = protestant	size =  12049 							}
+			create_pop = { culture = swabian			religion = catholic		size =  9038 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  4820 							}
+			create_pop = { culture = hessian			religion = protestant	size =  4218 							}
 			create_pop = {
 				culture = ashkenazi
 				size = 9388
@@ -693,10 +692,10 @@
 				culture = romanian
 				size = 39420
 			}
-			create_pop = { culture = plautdietsch	religion = protestant	size =  10543 }
-			create_pop = { culture = swabian		religion = catholic		size =  9038 }
-			create_pop = { culture = rhenish		religion = protestant	size =  6025 }
-			create_pop = { culture = hessian		religion = protestant	size =  4519 }
+			create_pop = { culture = plautdietsch		religion = protestant	size =  10543 							}
+			create_pop = { culture = swabian			religion = catholic		size =  9038 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  6025 							}
+			create_pop = { culture = hessian			religion = protestant	size =  4519 							}
 			create_pop = {
 				culture = polish
 				size = 8030
@@ -737,10 +736,10 @@
 				culture = ashkenazi
 				size = 55930
 			}
-			create_pop = { culture = plautdietsch	religion = protestant	size =  23171 }
-			create_pop = { culture = swabian		religion = catholic		size =  14482 }
-			create_pop = { culture = rhenish		religion = protestant	size =  11586 }
-			create_pop = { culture = bavarian		religion = catholic		size =  8689 }
+			create_pop = { culture = plautdietsch		religion = protestant	size =  23171 							}
+			create_pop = { culture = swabian			religion = catholic		size =  14482 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  11586 							}
+			create_pop = { culture = bavarian			religion = catholic		size =  8689 							}
 			create_pop = {
 				culture = greek
 				size = 20170
@@ -773,13 +772,13 @@
 				culture = bulgarian
 				size = 28832
 			}
-			create_pop = { culture = swabian		religion = catholic		size =  10119 }
-			create_pop = { culture = hessian		religion = protestant	size =  2698 }
-			create_pop = { culture = rhenish		religion = protestant	size =  2361 }
-			create_pop = { culture = franconian		religion = catholic		size =  1686 }
+			create_pop = { culture = swabian			religion = catholic		size =  10119 							}
+			create_pop = { culture = hessian			religion = protestant	size =  2698 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  2361 							}
+			create_pop = { culture = franconian			religion = catholic		size =  1686 							}
 			create_pop = {
 				culture = turkish
-				religion = orthodox
+					religion = orthodox
 				size = 15776
 			}
 		}
@@ -810,9 +809,9 @@
 				culture = kazak
 				size = 15405
 			}
-			create_pop = { culture = swabian		religion = catholic		size =  1508 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  628 }
-			create_pop = { culture = rhenish		religion = protestant	size =  377 }
+			create_pop = { culture = swabian			religion = catholic		size =  1508 							}
+			create_pop = { culture = plautdietsch		religion = protestant	size =  628 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  377 							}
 		}
 		region_state:CHC = {
 			create_pop = {
@@ -843,7 +842,7 @@
 			}
 			create_pop = {
 				culture = azerbaijani
-				religion = sunni
+					religion = sunni
 				size = 55000
 			}
 			create_pop = {
@@ -858,8 +857,8 @@
 				culture = armenian
 				size = 92855
 			}
-			create_pop = { culture = swabian		religion = catholic		size =  545 }
-			create_pop = { culture = rhenish		religion = protestant	size =  136 }
+			create_pop = { culture = swabian			religion = catholic		size =  545 							}
+			create_pop = { culture = rhenish			religion = protestant	size =  136 							}
 			create_pop = {
 				culture = north_caucasian
 				size = 4691
@@ -1158,7 +1157,7 @@
 		region_state:CHI = {
 			create_pop = { #Altaians
 				culture = mongol
-				religion = animist
+					religion = animist
 				size = 22940
 			}
 			create_pop = {
