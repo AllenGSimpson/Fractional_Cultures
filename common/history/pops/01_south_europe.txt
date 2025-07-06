@@ -593,14 +593,12 @@
 	}
 	s:STATE_SLOVENIA = {
 		region_state:AUS = {
-			create_pop = {
-				culture = slovene
-				size = 464400
-			}
-			create_pop = {
-				culture = south_german
-				size = 21388
-			}
+			create_pop = { culture = slovene		religion = catholic		size = 464400 }
+			create_pop = { culture = austrian		religion = catholic		size =  10694 }
+			create_pop = { culture = swabian		religion = catholic		size =  5347 }
+			create_pop = { culture = bavarian		religion = catholic		size =  3208 }
+			create_pop = { culture = tyrolean	 	religion = catholic		size =  1283 }
+			create_pop = { culture = rhenish	 	religion = catholic		size =  856 }
 		}
 	}
 	s:STATE_DALMATIA = {
@@ -634,10 +632,10 @@
 				culture = hungarian
 				size = 28000
 			}
-			create_pop = {
-				culture = south_german
-				size = 40396
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  28277 }
+			create_pop = { culture = austrian		religion = catholic		size =  6463 }
+			create_pop = { culture = bavarian		religion = catholic		size =  5655 }
+
 			create_pop = {
 				culture = serb
 				size = 176000
@@ -658,10 +656,9 @@
 				culture = hungarian
 				size = 16000
 			}
-			create_pop = {
-				culture = south_german
-				size = 20140
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  14098 }
+			create_pop = { culture = franconian		religion = catholic		size =  3222 }
+			create_pop = { culture = bavarian		religion = catholic		size =  2820 }
 		}
 	}
 	s:STATE_ISTRIA = {
@@ -678,10 +675,10 @@
 				culture = slovene
 				size = 344504
 			}
-			create_pop = {
-				culture = south_german
-				size = 9792
-			}
+			create_pop = { culture = austrian		religion = catholic		size =  7834 }
+			create_pop = { culture = swabian		religion = catholic		size =  1077 }
+			create_pop = { culture = alsatian		religion = catholic		size =  881 }
+
 			create_pop = {
 				culture = croat
 				size = 124000
@@ -727,10 +724,8 @@
 				culture = north_italian
 				size = 1281
 			}
-			create_pop = {
-				culture = south_german
-				size = 524
-			}
+			create_pop = { culture = austrian		religion = catholic		size =  314 }
+			create_pop = { culture = swabian		religion = catholic		size =  210 }
 		}
 	}
 	s:STATE_NORTHERN_SERBIA = {

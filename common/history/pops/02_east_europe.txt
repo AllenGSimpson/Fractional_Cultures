@@ -9,10 +9,9 @@
 				culture = estonian
 				size = 29910
 			}
-			create_pop = {
-				culture = north_german
-				size = 29910
-			}
+			create_pop = { culture = prussian		religion = protestant	size =  20937 }
+			create_pop = { culture = rhenish		religion = protestant	size =  8973 }
+
 			create_pop = {
 				culture = finnish
 				size = 61814
@@ -38,10 +37,8 @@
 				culture = russian
 				size = 1220711
 			}
-			create_pop = {
-				culture = north_german
-				size = 18590
-			}
+			create_pop = { culture = prussian		religion = protestant	size =  11154 }
+			create_pop = { culture = rhenish		religion = protestant	size =  7436 }
 		}
 	}
 	s:STATE_ORYOL = {
@@ -110,10 +107,8 @@
 				culture = russian
 				size = 801499
 			}
-			create_pop = {
-				culture = north_german
-				size = 6562
-			}
+			create_pop = { culture = prussian		religion = protestant	size =  4593 }
+			create_pop = { culture = rhenish		religion = protestant	size =  1969 }
 			create_pop = {
 				culture = karelian
 				size = 3281
@@ -139,10 +134,10 @@
 				culture = ukrainian
 				size = 179840
 			}
-			create_pop = {
-				culture = south_german
-				size = 8960
-			}
+			create_pop = { culture = plautdietsch	religion = protestant	size =  5376 }
+			create_pop = { culture = swabian		religion = catholic		size =  1882 }
+			create_pop = { culture = rhenish		religion = protestant	size =  1702 }
+
 			create_pop = {
 				culture = kalmyk
 				size = 8320
@@ -482,10 +477,11 @@
 				culture = polish
 				size = 1740004
 			}
-			create_pop = {
-				culture = south_german
-				size = 28000
-			}
+			create_pop = { culture = silesian		religion = catholic		size =  11200 }
+			create_pop = { culture = bavarian		religion = catholic		size =  8400 }
+			create_pop = { culture = franconian		religion = catholic		size =  4480 }
+			create_pop = { culture = austrian		religion = catholic		size =  3920 }
+
 			create_pop = {
 				culture = ukrainian
 				size = 152000
@@ -501,7 +497,7 @@
 				size = 172396
 			}
 			create_pop = {
-				culture = south_german
+				culture = silesian
 				size = 4000
 			}
 			create_pop = {
@@ -524,10 +520,11 @@
 				culture = ukrainian
 				size = 1544404
 			}
-			create_pop = {
-				culture = south_german
-				size = 20004
-			}
+			create_pop = { culture = silesian		religion = catholic		size =  8002 }
+			create_pop = { culture = bavarian		religion = catholic		size =  6001 }
+			create_pop = { culture = rhenish		religion = catholic		size =  3201 }
+			create_pop = { culture = austrian		religion = catholic		size =  2801 }
+
 			create_pop = {
 				culture = ashkenazi
 				size = 180000
@@ -545,10 +542,10 @@
 				religion = protestant
 				size = 932400
 			}
-			create_pop = {
-				culture = south_german
-				size = 149596
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  74798 }
+			create_pop = { culture = austrian		religion = catholic		size =  44879 }
+			create_pop = { culture = hessian		religion = catholic		size =  29919 }
+
 			create_pop = {
 				culture = hungarian
 				religion = jewish
@@ -575,10 +572,12 @@
 				religion = protestant
 				size = 288000
 			}
-			create_pop = {
-				culture = south_german
-				size = 144796
-			}
+
+			create_pop = { culture = swabian		religion = catholic		size =  94117 }
+			create_pop = { culture = hessian		religion = catholic		size =  21719 }
+			create_pop = { culture = franconian		religion = catholic		size =  15928 }
+			create_pop = { culture = rhenish		religion = catholic		size =  13032 }
+
 			create_pop = {
 				culture = romanian
 				size = 730400
@@ -613,15 +612,21 @@
 				religion = protestant
 				size = 316400
 			}
-			create_pop = {
-				culture = south_german
-				size = 379204
-			}
-			create_pop = {
-				culture = south_german
-				religion = protestant
-				size = 1100
-			}
+			
+			# Catholic block
+			create_pop = { culture = swabian		religion = catholic		size =  208562 }
+			create_pop = { culture = austrian		religion = catholic		size =  75841 }
+			create_pop = { culture = bavarian		religion = catholic		size =  56881 }
+			create_pop = { culture = franconian	 	religion = catholic		size =  22752 }
+			create_pop = { culture = tyrolean		religion = catholic		size =  15168 }
+	
+			# Lutheran & mixed block
+			create_pop = { culture = swabian		religion = protestant	size =  440 }
+			create_pop = { culture = franconian		religion = protestant	size =  275 }
+			create_pop = { culture = austrian		religion = protestant	size =  165 }
+			create_pop = { culture = bavarian		religion = protestant	size =  121 }
+			create_pop = { culture = estphalian		religion = protestant	size =  99 }
+
 			create_pop = {
 				culture = slovak
 				size = 128000
@@ -639,10 +644,11 @@
 	}
 	s:STATE_DELVIDEK = {
 		region_state:AUS = {
-			create_pop = {
-				culture = south_german
-				size = 197200
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  147900 }
+			create_pop = { culture = franconian		religion = catholic		size =  21692 }
+			create_pop = { culture = rhenish		religion = catholic		size =  17748 }
+			create_pop = { culture = alsatian		religion = catholic		size =  9860 }
+
 			create_pop = {
 				culture = hungarian
 				size = 160000
@@ -667,10 +673,10 @@
 	}
 	s:STATE_BANAT = {
 		region_state:AUS = {
-			create_pop = {
-				culture = south_german
-				size = 312640
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  218848 }
+			create_pop = { culture = franconian		religion = catholic		size =  50022 }
+			create_pop = { culture = alsatian		religion = catholic		size =  43770 }
+
 			create_pop = {
 				culture = romanian
 				size = 444620
@@ -709,10 +715,10 @@
 				culture = hungarian
 				size = 237000
 			}
-			create_pop = {
-				culture = south_german
-				size = 152800
-			}
+			create_pop = { culture = saxon			religion = protestant	size =  76400 }
+			create_pop = { culture = saxon			religion = catholic		size =  45840 }
+			create_pop = { culture = silesian		religion = protestant	size =  16808 }
+			create_pop = { culture = austrian		religion = catholic		size =  13752 }
 			create_pop = {
 				culture = slovak
 				size = 1140796
@@ -767,10 +773,11 @@
 				culture = romanian
 				size = 60000
 			}
-			create_pop = {
-				culture = south_german
-				size = 40080
-			}
+
+			create_pop = { culture = saxon			religion = protestant	size =  20040 }
+			create_pop = { culture = saxon			religion = catholic		size =  12024 }
+			create_pop = { culture = silesian		religion = protestant	size =  4409 }
+			create_pop = { culture = austrian		religion = catholic		size =  3607 }
 		}
 	}
 	s:STATE_SOUTHERN_TRANSYLVANIA = {
@@ -797,17 +804,14 @@
 				culture = romanian
 				size = 732000
 			}
-			create_pop = {
-				culture = south_german
-				size = 1792
-			}
+			create_pop = { culture = saxon			religion = protestant	size =  31426 }
+			create_pop = { culture = saxon			religion = catholic		size =  31426 }
+			create_pop = { culture = austrian		religion = catholic		size =  14366 }
+			create_pop = { culture = swabian		religion = catholic		size =  12570 }
+			
 			create_pop = {
 				culture = ashkenazi
 				size = 32800
-			}
-			create_pop = {
-				culture = north_german
-				size = 87996
 			}
 		}
 	}
@@ -827,14 +831,12 @@
 				culture = romanian
 				size = 388000
 			}
-			create_pop = {
-				culture = south_german
-				size = 3008
-			}
-			create_pop = {
-				culture = north_german
-				size = 164000
-			}
+
+			create_pop = { culture = saxon			religion = protestant	size =  58453 }
+			create_pop = { culture = saxon			religion = catholic		size =  58453 }
+			create_pop = { culture = austrian		religion = catholic		size =  33402 }
+			create_pop = { culture = swabian		religion = catholic		size =  16701 }
+
 			create_pop = {
 				culture = hungarian
 				size = 93720
@@ -875,10 +877,9 @@
 				culture = ukrainian
 				size = 144400
 			}
-			create_pop = {
-				culture = south_german
-				size = 32000
-			}
+			create_pop = { culture = swabian		religion = catholic		size =  19200 }
+			create_pop = { culture = hessian		religion = catholic		size =  6720 }
+			create_pop = { culture = rhenish		religion = catholic		size =  6080 }
 		}
 		region_state:MOL = { # Ballpark estimate: 1,358,409 total for 1836, guessing that its recorded 1859 census marked a 7.77% growth over 1836 or that 1836 is 92.79% of the 1859 census, drawn from a trendline of Transylvanian censuses 1784-1850
 			create_pop = {
