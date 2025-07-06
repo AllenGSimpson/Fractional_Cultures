@@ -109,7 +109,15 @@
 		region_state:USA = {
 			create_pop = {
 				culture = appalachian
-				size = 190619
+				size = 140619
+			}
+			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 48000
+			}
+			create_pop = {
+				culture = mennonite
+				size = 2000
 			}
 			create_pop = {
 				culture = appalachian
@@ -560,7 +568,7 @@
 				size = 55466
 			}
 			create_pop = {
-				culture = north_german
+				culture = rhenish
 				size = 2000
 			}
 			create_pop = {
@@ -650,7 +658,19 @@
 		region_state:USA = {
 			create_pop = {
 				culture = midlander
-				size = 378902
+				size = 376402
+			}
+			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 17500
+			}
+			create_pop = {
+				culture = amish
+				size = 1000
+			}
+			create_pop = {
+				culture = mennonite
+				size = 1500
 			}
 			create_pop = {
 				culture = new_englander
@@ -661,8 +681,9 @@
 				size = 4004
 			}
 			create_pop = {
-				culture = north_german
-				size = 20000
+				culture = westphalian
+				religion = catholic
+				size = 2500
 			}
 			create_pop = {
 				culture = afro_american
@@ -699,7 +720,19 @@
 		region_state:USA = {
 			create_pop = {
 				culture = midlander
-				size = 764540
+				size = 721540
+			}
+			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 145000
+			}
+			create_pop = {
+				culture = amish
+				size = 12000
+			}
+			create_pop = {
+				culture = mennonite
+				size = 6000
 			}
 			create_pop = {
 				culture = new_englander
@@ -715,8 +748,9 @@
 				size = 16008
 			}
 			create_pop = {
-				culture = north_german
-				size = 128000
+				culture = westphalian
+				religion = catholic
+				size = 5000
 			}
 			create_pop = {
 				culture = irish
@@ -941,7 +975,15 @@
 			}
 			create_pop = {
 				culture = midlander
-				size = 120959
+				size = 100959
+			}
+			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 19000
+			}
+			create_pop = {
+				culture = mennonite
+				size = 1000
 			}
 			# Maryland: 52938 free in 1830, 62078 free in 1840
 			# Delaware: 15855 free in 1830, 16919 free in 1840
@@ -990,8 +1032,20 @@
 	s:STATE_PENNSYLVANIA = {
 		region_state:USA = {
 			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 397000
+			}
+			create_pop = {
+				culture = amish
+				size = 3000
+			}
+			create_pop = {
+				culture = mennonite
+				size = 7000
+			}
+			create_pop = {
 				culture = midlander
-				size = 1250496
+				size = 843496
 			}
 			create_pop = {
 				culture = midlander
@@ -1034,7 +1088,15 @@
 		region_state:USA = {
 			create_pop = {
 				culture = prairie
-				size = 271440
+				size = 265940
+			}
+			create_pop = {
+				culture = pennsilfaanisch_deitsch
+				size = 5000
+			}
+			create_pop = {
+				culture = amish
+				size = 500
 			}
 			create_pop = {
 				culture = new_englander

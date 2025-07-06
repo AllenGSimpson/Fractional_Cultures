@@ -180,10 +180,70 @@
 	}
 	s:STATE_SILESIA = {
 		region_state:PRU = {
-			create_pop = {
-				culture = north_german
-				size = 1319008
+			
+			# Lutheran & mixed block
+			create_pop = { 
+				culture = silesian   	
+				religion = protestant  
+				size =  725454 
 			}
+
+			create_pop = { 
+				culture = saxon   		
+				religion = protestant  
+				size =  263802 
+			}
+
+			create_pop = { 
+				culture = prussian 		
+				religion = protestant  
+				size =  197851 
+			}
+
+			create_pop = { 
+				culture = brandenburgish 
+				religion = protestant  
+				size =  79140 
+			}
+
+			create_pop = { 
+				culture = estphalian 	
+				religion = protestant  
+				size =  52760 
+			}
+
+
+			# Catholic block
+			create_pop = { 
+				culture = silesian   	
+				religion = catholic 
+				size = 137040 
+			}
+
+			create_pop = { 
+				culture = rhenish 		
+				religion = catholic 
+				size = 34260 
+			}
+
+			create_pop = { 
+				culture = westphalian 	
+				religion = catholic 
+				size = 25124 
+			}
+
+			create_pop = { 
+				culture = franconian		
+				religion = catholic 
+				size = 20556 
+			}
+
+			create_pop = { 
+				culture = swabian		
+				religion = catholic 
+				size = 11420 
+			}
+			
 			create_pop = {
 				culture = ashkenazi
 				size = 16004
@@ -191,11 +251,6 @@
 			create_pop = {
 				culture = polish
 				size = 712800
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 228400
 			}
 			create_pop = {
 				culture = czech
@@ -206,10 +261,77 @@
 	}
 	s:STATE_WEST_PRUSSIA = {
 		region_state:PRU = {
-			create_pop = {
-				culture = north_german
-				size = 452400
+			
+			# Lutheran & mixed block
+			create_pop = { 
+				culture = pomeranian  	
+				religion = protestant  
+				size =  158340 
 			}
+
+			create_pop = { 
+				culture = prussian  		
+				religion = protestant  
+				size =  113100 
+			}
+
+			create_pop = { 
+				culture = brandenburgish	
+				religion = protestant  
+				size =  67860 
+			}
+
+			create_pop = { 
+				culture = estphalian		
+				religion = protestant  
+				size =  49764 
+			}
+
+			create_pop = { 
+				culture = plautdietsch	
+				religion = protestant  
+				size =  40716 
+			}
+
+			create_pop = { 
+				culture = westphalian	
+				religion = protestant  
+				size =  22620 
+			}
+
+
+			# Catholic block
+			create_pop = { 
+				culture = westphalian  	
+				religion = catholic 
+				size = 2481 
+			}
+
+			create_pop = { 
+				culture = rhenish		
+				religion = catholic 
+				size = 2321 
+			}
+
+			create_pop = { 
+				culture = hessian 		
+				religion = catholic 
+				size = 1601 
+			}
+
+			create_pop = { 
+				culture = franconian	  	
+				religion = catholic 
+				size = 880 
+			}
+
+			create_pop = { 
+				culture = pomeranian  	
+				religion = catholic 
+				size = 719 
+			}
+
+
 			create_pop = {
 				culture = ashkenazi
 				size = 2200
@@ -223,19 +345,73 @@
 				culture = polish
 				size = 188400
 			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 8004
-			}
 		}
 	}
 	s:STATE_EAST_PRUSSIA = {
 		region_state:PRU = {
-			create_pop = {
-				culture = north_german
-				size = 629796
+			# Lutheran & mixed block
+			create_pop = { 
+				culture = prussian  		
+				religion = protestant  
+				size =  314898 
 			}
+			create_pop = { 
+				culture = pomeranian  	
+				religion = protestant  
+				size =  100767 
+			}
+			create_pop = { 
+				culture = brandenburgish	
+				religion = protestant  
+				size =  88171 
+			}
+			create_pop = { 
+				culture = plautdietsch	
+				religion = protestant  
+				size =  62980 
+			}
+			create_pop = { 
+				culture = estphalian		
+				religion = protestant  
+				size =  37788 
+			}
+			create_pop = { 
+				culture = silesian		
+				religion = protestant  
+				size =  25192 
+			}
+
+			# Catholic block
+			create_pop = { 
+				culture = prussian  		
+				religion = catholic 
+				size = 32480 
+			}
+
+			create_pop = { 
+				culture = pomeranian		
+				religion = catholic 
+				size = 17052 
+			}
+
+			create_pop = { 
+				culture = rhenish 		
+				religion = catholic 
+				size = 15428 
+			}
+
+			create_pop = { 
+				culture = westphalian	
+				religion = catholic 
+				size = 8932 
+			}
+
+			create_pop = { 
+				culture = hessian  		
+				religion = catholic 
+				size = 7308 
+			}
+
 			create_pop = {
 				culture = ashkenazi
 				size = 2600
@@ -244,11 +420,6 @@
 				culture = lithuanian
 				religion = protestant
 				size = 117196
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 81200
 			}
 			create_pop = {
 				culture = polish
@@ -260,8 +431,20 @@
 	s:STATE_POSEN = {
 		region_state:PRU = {
 			create_pop = {
-				culture = north_german
-				size = 540400
+				culture = prussian
+				size = 243180
+			}
+			create_pop = {
+				culture = brandenburgish
+				size = 135100
+			}
+			create_pop = {
+				culture = westphalian
+				size = 86464
+			}
+			create_pop = {
+				culture = pomeranian
+				size = 75656
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -272,9 +455,24 @@
 				size = 871204
 			}
 			create_pop = {
-				culture = north_german
+				culture  = westphalian      # Hauländer farming belt
 				religion = catholic
-				size = 141160
+				size     = 56000           # ≈ 40 %
+			}
+			create_pop = {
+				culture  = franconian       # “Bamberger” villages
+				religion = catholic
+				size     = 35000           # ≈ 25 %
+			}
+			create_pop = {
+				culture  = rhenish          # Cologne/Trier artisans, merchants
+				religion = catholic
+				size     = 28000           # ≈ 20 %
+			}
+			create_pop = {
+				culture  = silesian         # cloth-weaver spill-over
+				religion = catholic
+				size     = 22160           # ≈ 15 %
 			}
 		}
 	}
