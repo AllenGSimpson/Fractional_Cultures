@@ -23,7 +23,9 @@
 		region_state:RUS = {
 			create_pop = { culture = russian									size = 3327590						}
 			create_pop = { culture = ashkenazi									size = 23410						}
-			create_pop = { culture = ukrainian									size = 5122							}
+			create_pop = { culture = slobodan			religion = orthodox		size = 2561							}
+			create_pop = { culture = donian				religion = orthodox		size = 1332							}
+			create_pop = { culture = polesian			religion = catholic		size = 1229							}
 		}
 	}
 	s:STATE_SMOLENSK = {
@@ -45,7 +47,10 @@
 	s:STATE_KURSK = { #DONE
 		region_state:RUS = {
 			create_pop = { culture = russian									size = 1511408						}
-			create_pop = { culture = ukrainian									size = 678505						}
+			create_pop = { culture = slobodan			religion = orthodox		size = 305326						}
+			create_pop = { culture = donian				religion = orthodox		size = 203552						}
+			create_pop = { culture = polesian			religion = catholic		size = 101776						}
+			create_pop = { culture = podolian			religion = catholic		size = 67851						}
 		}
 	}
 	s:STATE_NOVGOROD = { #DONE
@@ -61,7 +66,10 @@
 	s:STATE_ROSTOV = {
 		region_state:RUS = {
 			create_pop = { culture = russian									size = 427520						}
-			create_pop = { culture = ukrainian									size = 179840						}
+			create_pop = { culture = donian				religion = orthodox		size = 80928						}
+			create_pop = { culture = kubanian			religion = orthodox		size = 53952						}
+			create_pop = { culture = slobodan			religion = orthodox		size = 26976						}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 17984						}
 			create_pop = { culture = plautdietsch		religion = protestant	size = 5376							}
 			create_pop = { culture = swabian			religion = catholic		size = 1882							}
 			create_pop = { culture = rhenish			religion = protestant	size = 1702							}
@@ -192,41 +200,47 @@
 	}
 	s:STATE_WEST_GALICIA = {
 		region_state:AUS = {
-			create_pop = { culture = malopolski			religion = catholic		size = 783003							}
-			create_pop = { culture = galicyjski			religion = catholic		size = 609001							}
-			create_pop = { culture = goralski			religion = catholic		size = 191400							}
-			create_pop = { culture = podlaski			religion = catholic		size = 156600							}
+			create_pop = { culture = malopolski			religion = catholic		size = 783003						}
+			create_pop = { culture = galicyjski			religion = catholic		size = 673981						}
+			create_pop = { culture = goralski			religion = catholic		size = 191400						}
+			create_pop = { culture = podlaski			religion = catholic		size = 156600						}
 
 			create_pop = { culture = silesian			religion = catholic		size = 11200						}
 			create_pop = { culture = bavarian			religion = catholic		size = 8400							}
 			create_pop = { culture = franconian			religion = catholic		size = 4480							}
 			create_pop = { culture = austrian			religion = catholic		size = 3920							}
-			create_pop = { culture = ukrainian			religion = catholic		size = 96267						}
-			create_pop = { culture = ukrainian			religion = catholic		size = 48133						}
+			
+			create_pop = { culture = podolian			religion = catholic		size = 57760						}
+			create_pop = { culture = kresowiak			religion = catholic		size = 21660						}
 			create_pop = { culture = eastern_slovak 	religion = catholic		size = 7600 						}
 			
 			create_pop = { culture = ashkenazi			religion = jewish		size = 136000						}
 		}
 		region_state:KRA = {
-			create_pop = { culture = malopolski			religion = catholic		size = 103438							}
-			create_pop = { culture = galicyjski			religion = catholic		size = 27583							}
-			create_pop = { culture = goralski			religion = catholic		size = 24135							}
-			create_pop = { culture = wielkopolski		religion = catholic		size = 10344							}
-			create_pop = { culture = podlaski			religion = catholic		size = 6896								}
+			create_pop = { culture = malopolski			religion = catholic		size = 103438						}
+			create_pop = { culture = galicyjski			religion = catholic		size = 32383						}
+			create_pop = { culture = goralski			religion = catholic		size = 24135						}
+			create_pop = { culture = wielkopolski		religion = catholic		size = 10344						}
+			create_pop = { culture = podlaski			religion = catholic		size = 6896							}
 
 			create_pop = { culture = silesian									size = 4000							}
 			create_pop = { culture = ashkenazi									size = 32004						}
-			create_pop = { culture = ukrainian									size = 16000						}
+			create_pop = { culture = podolian			religion = catholic		size = 7200							}
+			create_pop = { culture = kresowiak			religion = catholic		size = 4000							}
 		}
 	}
 	s:STATE_EAST_GALICIA = {
 		region_state:AUS = {
-			create_pop = { culture = kresowiak			religion = catholic		size = 499680							}
-			create_pop = { culture = galicyjski			religion = catholic		size = 166560							}
-			create_pop = { culture = podlaski			religion = catholic		size = 91608							}
-			create_pop = { culture = malopolski			religion = catholic		size = 74952							}
+			create_pop = { culture = kresowiak			religion = catholic		size = 499680						}
+			create_pop = { culture = galicyjski			religion = catholic		size = 166560						}
+			create_pop = { culture = podlaski			religion = catholic		size = 91608						}
+			create_pop = { culture = malopolski			religion = catholic		size = 74952						}
 			
-			create_pop = { culture = ukrainian			religion = catholic		size = 1389964						}
+			create_pop = { culture = kresowiak			religion = catholic		size = 625484						} #from ukraine
+			create_pop = { culture = podlaski			religion = catholic		size = 347491						} #from ukraine
+			create_pop = { culture = podolian			religion = catholic		size = 277993						} #from ukraine
+			create_pop = { culture = galicyjski			religion = catholic		size = 138996						} #from ukraine
+
 			create_pop = { culture = eastern_slovak		religion = protestant	size = 154440						}
 			create_pop = { culture = silesian			religion = catholic		size = 8002							}
 			create_pop = { culture = bavarian			religion = catholic		size = 6001							}
@@ -332,7 +346,9 @@
 			create_pop = { culture = bohemian			religion = catholic		size = 57040						}
 			create_pop = { culture = moravian			religion = catholic		size = 45632 						}
 			
-			create_pop = { culture = ukrainian									size = 244000						}
+			create_pop = { culture = kresowiak			religion = catholic		size = 195200						} # from ukraine
+			create_pop = { culture = podlaski			religion = catholic		size = 48800						} # from ukraine
+
 			create_pop = { culture = hungarian			religion = protestant	size = 212396						}
 			create_pop = { culture = ashkenazi									size = 60400						}
 			create_pop = { culture = kresowiak			religion = catholic		size = 7200							}
@@ -350,7 +366,10 @@
 			create_pop = { culture = moravian			religion = catholic		size = 12120						}
 			create_pop = { culture = kresowiak			religion = catholic		size = 3800							}
 			create_pop = { culture = malopolski			religion = protestant	size = 200							}
-			create_pop = { culture = ukrainian									size = 164000						}
+
+			create_pop = { culture = kresowiak			religion = catholic		size = 98400						} # from ukraine
+			create_pop = { culture = podlaski			religion = catholic		size = 65600						} # from ukraine
+
 			create_pop = { culture = hungarian			religion = protestant	size = 168452						}
 			create_pop = { culture = ashkenazi									size = 40400						}
 			create_pop = { culture = romanian									size = 60000						}
@@ -391,14 +410,14 @@
 	}
 	s:STATE_MOLDAVIA = {
 		region_state:AUS = {
-			create_pop = { culture = kresowiak			religion = catholic		size = 18007							}
-			create_pop = { culture = podlaski			religion = catholic		size = 2001								}
+			create_pop = { culture = kresowiak			religion = catholic		size = 18007						}
+			create_pop = { culture = podlaski			religion = catholic		size = 2001							}
 
 			create_pop = { culture = romanian									size = 144000						}
 			create_pop = { culture = ashkenazi									size = 20004						}
 			create_pop = { culture = szekely									size = 10012						}
 			create_pop = { culture = hungarian									size = 1986							}
-			create_pop = { culture = ukrainian									size = 144400						}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 144400						}
 			create_pop = { culture = swabian			religion = catholic		size = 19200						}
 			create_pop = { culture = hessian			religion = catholic		size = 6720							}
 			create_pop = { culture = rhenish			religion = catholic		size = 6080							}

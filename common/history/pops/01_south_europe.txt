@@ -235,14 +235,16 @@
 	s:STATE_DOBRUDJA = {
 		region_state:TUR = {
 			create_pop = { culture = turkish									size = 59044						}
-			create_pop = { culture = ukrainian									size = 3000							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 1800							}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 1200							}
 			create_pop = { culture = bulgarian									size = 90004						}
 			create_pop = { culture = greek										size = 3900							}
 			create_pop = { culture = romanian									size = 76000						}
 		}
 		region_state:RUS = {
 			create_pop = { culture = turkish									size = 2560							}
-			create_pop = { culture = ukrainian									size = 9000							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 5400							}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 3600							}
 			create_pop = { culture = bulgarian									size = 2000							}
 			create_pop = { culture = greek										size = 100							}
 			create_pop = { culture = romanian									size = 8000							}

@@ -26,10 +26,7 @@
 				culture = russian
 				size = 32156
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 2777
-			}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 2777							}
 			create_pop = {
 				culture = persian
 				size = 4454
@@ -64,13 +61,14 @@
 				culture = russian
 				size = 114400
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 124800
-			}
-			create_pop = { culture = swabian		religion = catholic		size =  5280 }
-			create_pop = { culture = plautdietsch	religion = protestant	size =  2880 }
-			create_pop = { culture = rhenish		religion = protestant	size =  1440 }
+			create_pop = { culture = kubanian		religion = orthodox		size = 62400						}
+			create_pop = { culture = azovian		religion = orthodox		size = 37440						}
+			create_pop = { culture = donian			religion = orthodox		size = 13728						}
+			create_pop = { culture = slobodan		religion = catholic		size = 11232						}
+
+			create_pop = { culture = swabian		religion = catholic		size = 5280						}
+			create_pop = { culture = plautdietsch	religion = protestant	size = 2880						}
+			create_pop = { culture = rhenish		religion = protestant	size = 1440						}
 		}
 		region_state:CIR = {
 			create_pop = {
@@ -143,9 +141,9 @@
 				culture = north_caucasian
 				size = 21014
 			}
-			create_pop = { culture = swabian		religion = catholic		size =  831 							}
-			create_pop = { culture = rhenish		religion = protestant	size =  237 							}
-			create_pop = { culture = austrian		religion = catholic		size =  119 							}
+			create_pop = { culture = swabian		religion = catholic		size = 831 							}
+			create_pop = { culture = rhenish		religion = protestant	size = 237 							}
+			create_pop = { culture = austrian		religion = catholic		size = 119 							}
 			create_pop = {
 				culture = russian
 				size = 27208
@@ -166,9 +164,9 @@
 				culture = sephardic
 				size = 9459
 			}
-			create_pop = { culture = swabian		religion = catholic		size =  4729 							}
-			create_pop = { culture = rhenish		religion = protestant	size =  946 							}
-			create_pop = { culture = saxon			religion = protestant	size =  631 							}
+			create_pop = { culture = swabian		religion = catholic		size = 4729 							}
+			create_pop = { culture = rhenish		religion = protestant	size = 946 							}
+			create_pop = { culture = saxon			religion = protestant	size = 631 							}
 
 			create_pop = {
 				culture = north_caucasian
@@ -220,22 +218,22 @@
 				culture = mordvin
 				size = 145276
 			}
-			create_pop = { culture = volga_german	religion = protestant	size =  17409 	pop_type = farmers		} #  4394 farmers
-			create_pop = { culture = volga_german	religion = catholic		size =  6591 	pop_type = farmers		} #  1647 farmers
-			create_pop = { culture = volga_german	religion = catholic		size =  4000 	pop_type = farmers		} #  1000 shopkeepers
-			create_pop = { culture = volga_german	religion = catholic		size =  167		pop_type = aristocrats	} #  42	aristocrats
-			create_pop = { culture = hessian		religion = protestant	size =  7500 	pop_type = machinists	} #  1875 machinists
-			create_pop = { culture = rhenish		religion = protestant	size =  2500 	pop_type = machinists	} #  2500	machinists
-			create_pop = { culture = rhenish		religion = protestant	size =  2333 	pop_type = shopkeepers	} #  583	shopkeepers
-			create_pop = { culture = hessian		religion = protestant	size =  1288 	pop_type = shopkeepers	} #  322 	shopkeepers
-			create_pop = { culture = swabian		religion = catholic		size =  1955 	pop_type = shopkeepers	} #  488 	shopkeepers
-			create_pop = { culture = swabian		religion = catholic		size =  2000 	pop_type = shopkeepers	} #  500 	machinists
-			create_pop = { culture = franconian		religion = protestant	size =  197 	pop_type = shopkeepers	} #  49	shopkeepers
-			create_pop = { culture = franconian		religion = protestant	size =  2000 	pop_type = shopkeepers	} #  500	machinists
-			create_pop = {
-				culture = ukrainian
-				size = 50224
-			}
+			create_pop = { culture = volga_german		religion = protestant	size = 17409 	pop_type = farmers		} #  4394 farmers
+			create_pop = { culture = volga_german		religion = catholic		size = 6591 	pop_type = farmers		} #  1647 farmers
+			create_pop = { culture = volga_german		religion = catholic		size = 4000 	pop_type = farmers		} #  1000 shopkeepers
+			create_pop = { culture = volga_german		religion = catholic		size = 167		pop_type = aristocrats	} #  42	aristocrats
+			create_pop = { culture = hessian			religion = protestant	size = 7500 	pop_type = machinists	} #  1875 machinists
+			create_pop = { culture = rhenish			religion = protestant	size = 2500 	pop_type = machinists	} #  2500	machinists
+			create_pop = { culture = rhenish			religion = protestant	size = 2333 	pop_type = shopkeepers	} #  583	shopkeepers
+			create_pop = { culture = hessian			religion = protestant	size = 1288 	pop_type = shopkeepers	} #  322 	shopkeepers
+			create_pop = { culture = swabian			religion = catholic		size = 1955 	pop_type = shopkeepers	} #  488 	shopkeepers
+			create_pop = { culture = swabian			religion = catholic		size = 2000 	pop_type = shopkeepers	} #  500 	machinists
+			create_pop = { culture = franconian			religion = protestant	size = 197 	pop_type = shopkeepers	} #  49	shopkeepers
+			create_pop = { culture = franconian			religion = protestant	size = 2000 	pop_type = shopkeepers	} #  500	machinists
+			create_pop = { culture = slobodan			religion = orthodox		size = 25112							}
+			create_pop = { culture = podolian			religion = catholic		size = 10045							}
+			create_pop = { culture = donian				religion = orthodox		size = 8036								}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 7031								}
 			create_pop = {
 				culture = chuvash
 				size = 42970
@@ -307,10 +305,11 @@
 				culture = tatar
 				size = 54224
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 62827
-			}
+			create_pop = { culture = kubanian			religion = orthodox		size = 18848							}
+			create_pop = { culture = azovian			religion = orthodox		size = 15707							}
+			create_pop = { culture = donian				religion = orthodox		size = 12565							}
+			create_pop = { culture = slobodan			religion = orthodox		size = 9424								}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 6283								}
 			create_pop = {
 				culture = mordvin
 				size = 67811
@@ -319,15 +318,15 @@
 				culture = chuvash
 				size = 17643
 			}
-			create_pop = { culture = volga_german	religion = protestant	size =  27094 	pop_type = farmers		}	# 6773 	farmers
-			create_pop = { culture = hessian		religion = protestant	size =  8386 	pop_type = shopkeepers	}	# 2096 	shopkeepers
-			create_pop = { culture = hessian		religion = protestant	size =  4000 	pop_type = machinists	}	# 1000 	machinists
-			create_pop = { culture = rhenish		religion = protestant	size =  8412 	pop_type = shopkeepers	}	# 2103 	shopkeepers
-			create_pop = { culture = rhenish		religion = protestant	size =  3200 	pop_type = clerks		}	# 800 	clerks
-			create_pop = { culture = plautdietsch	religion = protestant	size =  10838 	pop_type = shopkeepers	}	# 2709 	shopkeepers
-			create_pop = { culture = volga_german	religion = catholic		size =  8515 	pop_type = farmers		}	# 2128 	farmers
-			create_pop = { culture = swabian		religion = catholic		size =  4967 	pop_type = shopkeepers	}	# 1241 	shopkeepers
-			create_pop = { culture = swabian		religion = catholic		size =  2000 	pop_type = machinists	}	# 500 	machinists
+			create_pop = { culture = volga_german		religion = protestant	size = 27094 	pop_type = farmers		}	# 6773 	farmers
+			create_pop = { culture = hessian			religion = protestant	size = 8386 	pop_type = shopkeepers	}	# 2096 	shopkeepers
+			create_pop = { culture = hessian			religion = protestant	size = 4000 	pop_type = machinists	}	# 1000 	machinists
+			create_pop = { culture = rhenish			religion = protestant	size = 8412 	pop_type = shopkeepers	}	# 2103 	shopkeepers
+			create_pop = { culture = rhenish			religion = protestant	size = 3200 	pop_type = clerks		}	# 800 	clerks
+			create_pop = { culture = plautdietsch		religion = protestant	size = 10838 	pop_type = shopkeepers	}	# 2709 	shopkeepers
+			create_pop = { culture = volga_german		religion = catholic		size = 8515 	pop_type = farmers		}	# 2128 	farmers
+			create_pop = { culture = swabian			religion = catholic		size = 4967 	pop_type = shopkeepers	}	# 1241 	shopkeepers
+			create_pop = { culture = swabian			religion = catholic		size = 2000 	pop_type = machinists	}	# 500 	machinists
 		}
 	}
 	s:STATE_ASTRAKHAN = {
@@ -344,23 +343,24 @@
 				culture = kalmyk
 				size = 3605
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 45578
-			}
+			create_pop = { culture = donian				religion = orthodox		size = 18231							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 13673							}
+			create_pop = { culture = kubanian			religion = orthodox		size = 6837								}
+			create_pop = { culture = azovian			religion = orthodox		size = 4558								}
+			create_pop = { culture = slobodan			religion = orthodox		size = 2279								}
 			create_pop = {
 				culture = tatar
 				size = 11574
 			}
-			create_pop = { culture = volga_german	religion = protestant	size =  9137 	pop_type = farmers		}	# 2284 	farmers
-			create_pop = { culture = hessian		religion = protestant	size =  3614 	pop_type = shopkeepers	}	# 903 	shopkeepers
-			create_pop = { culture = hessian		religion = protestant	size =  4000 	pop_type = machinists	}	# 1000 	machinists
-			create_pop = { culture = plautdietsch	religion = protestant	size =  6091 	pop_type = shopkeepers	}	# 1522 	shopkeepers
-			create_pop = { culture = rhenish		religion = protestant	size =  1101 	pop_type = shopkeepers	}	# 275 	shopkeepers
-			create_pop = { culture = rhenish		religion = protestant	size =  268 	pop_type = capitalists	}	# 67 	capitalists
-			create_pop = { culture = volga_german	religion = protestant	size =  363 	pop_type = farmers		}	# 91 	capitalists
-			create_pop = { culture = volga_german	religion = catholic		size =  3046 	pop_type = farmers		}	# 716 	farmers
-			create_pop = { culture = rhenish		religion = protestant	size =  3200 	pop_type = clerks		}	# 800 	clerks
+			create_pop = { culture = volga_german		religion = protestant	size = 9137 	pop_type = farmers		}	# 2284 	farmers
+			create_pop = { culture = hessian			religion = protestant	size = 3614 	pop_type = shopkeepers	}	# 903 	shopkeepers
+			create_pop = { culture = hessian			religion = protestant	size = 4000 	pop_type = machinists	}	# 1000 	machinists
+			create_pop = { culture = plautdietsch		religion = protestant	size = 6091 	pop_type = shopkeepers	}	# 1522 	shopkeepers
+			create_pop = { culture = rhenish			religion = protestant	size = 1101 	pop_type = shopkeepers	}	# 275 	shopkeepers
+			create_pop = { culture = rhenish			religion = protestant	size = 268 	pop_type = capitalists	}	# 67 	capitalists
+			create_pop = { culture = volga_german		religion = protestant	size = 363 	pop_type = farmers		}	# 91 	capitalists
+			create_pop = { culture = volga_german		religion = catholic		size = 3046 	pop_type = farmers		}	# 716 	farmers
+			create_pop = { culture = rhenish			religion = protestant	size = 3200 	pop_type = clerks		}	# 800 	clerks
 		}
 	}
 	s:STATE_URALSK = {
@@ -462,7 +462,7 @@
 				size = 3581
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = slobodan
 				size = 5004
 			}
 			create_pop = {

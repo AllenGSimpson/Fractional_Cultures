@@ -22,10 +22,12 @@
 				culture = kazak
 				size = 10200
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 14400
-			}
+			create_pop = { culture = slobodan			religion = orthodox		size = 5040							}
+			create_pop = { culture = podolian			religion = catholic		size = 3024							}
+			create_pop = { culture = kresowiak			religion = orthodox		size = 2736							}
+			create_pop = { culture = donian				religion = orthodox		size = 1584							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 1296							}
+			create_pop = { culture = polesian			religion = catholic		size = 720							}
 		}
 	}
 	s:STATE_TOBOLSK = { #DONE
@@ -42,10 +44,12 @@
 				culture = ugrian
 				size = 1257
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 12111
-			}
+			create_pop = { culture = slobodan			religion = orthodox		size = 3633							}
+			create_pop = { culture = podolian			religion = catholic		size = 3028							}
+			create_pop = { culture = kresowiak			religion = orthodox		size = 2422							}
+			create_pop = { culture = donian				religion = orthodox		size = 1332							}
+			create_pop = { culture = polesian			religion = catholic		size = 1090							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 606							}
 		}
 	}
 	s:STATE_TUVA = { #DONE
@@ -74,10 +78,12 @@
 				culture = tatar
 				size = 17665
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 8785
-			}
+			create_pop = { culture = slobodan			religion = orthodox		size = 2636							}
+			create_pop = { culture = podolian			religion = catholic		size = 2196							}
+			create_pop = { culture = kresowiak			religion = orthodox		size = 1757							}
+			create_pop = { culture = donian				religion = orthodox		size = 966							}
+			create_pop = { culture = polesian			religion = catholic		size = 791							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 439							}
 		}
 	}
 	s:STATE_UPPER_YENISEYSK = { #DONE

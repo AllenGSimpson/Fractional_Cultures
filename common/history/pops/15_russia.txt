@@ -28,10 +28,7 @@
 				culture = tatar
 				size = 600
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 500
-			}
+			create_pop = { culture = kresowiak			religion = catholic		size = 500							}
 			create_pop = {
 				culture = ashkenazi
 				size = 77259
@@ -223,10 +220,9 @@
 				culture = byelorussian
 				size = 50440
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 21106
-			}
+			create_pop = { culture = kresowiak			religion = catholic		size = 12663							}
+			create_pop = { culture = podlaski			religion = catholic		size = 5277								}
+			create_pop = { culture = polesian			religion = catholic		size = 3166								}
 		}
 	}
 	s:STATE_GREATER_POLAND = { #Warszawa - DONE
@@ -278,10 +274,9 @@
 			create_pop = { culture = plautdietsch		religion = protestant	size = 2752 							}			
 			create_pop = { culture = franconian			religion = protestant	size = 1376 							}
 
-			create_pop = {
-				culture = ukrainian
-				size = 160774
-			}
+			create_pop = { culture = podolian			religion = catholic		size = 96464							} # from ukraine
+			create_pop = { culture = galicyjski			religion = catholic		size = 40194							} # from ukraine
+			create_pop = { culture = kresowiak			religion = catholic		size = 24116							} # from ukraine
 			create_pop = {
 				culture = russian
 				size = 35435
@@ -456,10 +451,8 @@
 				culture = lithuanian
 				size = 10524
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 133659
-			}
+			create_pop = { culture = polesian			religion = catholic		size = 93561							} # from ukraine
+			create_pop = { culture = kresowiak			religion = catholic		size = 40098							} # from ukraine 
 			create_pop = { culture = kresowiak			religion = catholic		size = 6751		pop_type = aristocrats	}
 			create_pop = { culture = kresowiak			religion = catholic		size = 11252							}
 			create_pop = { culture = podlaski			religion = catholic		size = 4501								}
@@ -536,10 +529,9 @@
 	}
 	s:STATE_VOLHYNIA = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 526356
-			}
+			create_pop = { culture = podolian			religion = catholic		size = 236860							} # from ukraine
+			create_pop = { culture = kresowiak			religion = catholic		size = 157907							} # from ukraine
+			create_pop = { culture = polesian			religion = catholic		size = 131589							} # from ukraine
 			create_pop = {
 				culture = ashkenazi
 				size = 94529
@@ -561,10 +553,8 @@
 	}
 	s:STATE_KIEV = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 2610320
-			}
+			create_pop = { culture = slobodan			religion = orthodox		size = 1566192							}
+			create_pop = { culture = polesian			religion = catholic		size = 1044128							}
 			create_pop = { culture = prussian			religion = protestant	size = 9038 							}
 			create_pop = { culture = brandenburgish		religion = protestant	size = 7531 							}
 			create_pop = { culture = rhenish			religion = catholic		size = 6025 							}
@@ -589,10 +579,8 @@
 	}
 	s:STATE_CRIMEA = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 24006
-			}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 16804							}
+			create_pop = { culture = azovian			religion = orthodox		size = 7202								}
 			create_pop = {
 				culture = russian
 				size = 72719
@@ -639,10 +627,8 @@
 	}
 	s:STATE_KHARKOV = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 2592964
-			}
+			create_pop = { culture = slobodan		religion = orthodox		size = 1685427							}
+			create_pop = { culture = donian			religion = orthodox		size = 907537							}
 			create_pop = {
 				culture = ashkenazi
 				size = 87678
@@ -655,10 +641,9 @@
 	}
 	s:STATE_CHERSON = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 593470
-			}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 356082							} # from ukraine
+			create_pop = { culture = azovian			religion = orthodox		size = 124629							} # from ukraine
+			create_pop = { culture = kresowiak			religion = catholic		size = 112759							} # from ukraine
 			create_pop = {
 				culture = russian
 				size = 203300
@@ -681,10 +666,8 @@
 	}
 	s:STATE_CHERNIHIV = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 949520
-			}
+			create_pop = { culture = slobodan			religion = orthodox		size = 569712							}
+			create_pop = { culture = polesian			religion = catholic		size = 379808							}
 			create_pop = {
 				culture = ashkenazi
 				size = 71500
@@ -701,10 +684,9 @@
 	}
 	s:STATE_TAURIDA = { #DONE
 		region_state:RUS = {
-			create_pop = {
-				culture = ukrainian
-				size = 872404
-			}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 523442							} # from ukraine
+			create_pop = { culture = azovian			religion = orthodox		size = 183205							} # from ukraine
+			create_pop = { culture = kresowiak			religion = catholic		size = 165757							} # from ukraine
 			create_pop = {
 				culture = russian
 				size = 270677
@@ -733,10 +715,8 @@
 				culture = romanian
 				size = 303466
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 81600
-			}
+			create_pop = { culture = bessarabian		religion = orthodox		size = 61200							}
+			create_pop = { culture = black_sea_littoral	religion = orthodox		size = 20400							}
 			create_pop = {
 				culture = russian
 				size = 43520
@@ -766,10 +746,10 @@
 				culture = russian
 				size = 62731
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 16443
-			}
+			create_pop = { culture = kubanian		religion = orthodox		size = 8222							}
+			create_pop = { culture = azovian		religion = orthodox		size = 4111							}
+			create_pop = { culture = donian			seligion = orthodox		size = 2466							}
+			create_pop = { culture = slobodan		religion = orthodox		size = 1644							}
 			create_pop = {
 				culture = chechen
 				size = 21197
@@ -848,10 +828,10 @@
 				culture = russian
 				size = 289248
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 191784
-			}
+			create_pop = { culture = kubanian		religion = orthodox		size = 95892							}
+			create_pop = { culture = azovian		religion = orthodox		size = 47946							}
+			create_pop = { culture = donian			seligion = orthodox		size = 28768							}
+			create_pop = { culture = slobodan		religion = orthodox		size = 19178							}
 			create_pop = {
 				culture = kazak
 				size = 12054
@@ -1063,10 +1043,7 @@
 				culture = mordvin
 				size = 4978
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 5785
-			}
+			create_pop = { culture = trans_uralian	religion = orthodox		size = 5785								}
 			create_pop = {
 				culture = chuvash
 				size = 1346
@@ -1081,10 +1058,7 @@
 				culture = kazak
 				size = 34440
 			}
-			create_pop = {
-				culture = ukrainian
-				size = 3780
-			}
+			create_pop = { culture = trans_uralian	religion = orthodox		size = 3780								}
 			create_pop = {
 				culture = tatar
 				size = 420
