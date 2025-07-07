@@ -35,7 +35,14 @@
 			create_pop = { culture = kresowiak				religion = catholic		size = 2903							}
 			create_pop = { culture = podlaski				religion = catholic		size = 830							}
 			create_pop = { culture = mazowiecki				religion = catholic		size = 415							}
-			create_pop = { culture = byelorussian									size = 68442						}
+			
+			create_pop = { culture = polesian				religion = catholic		size = 27377						} # from byelorus
+			create_pop = { culture = grodnian				religion = orthodox		size = 10266						} # from byelorus
+			create_pop = { culture = vilnian				religion = orthodox		size = 8897							} # from byelorus
+			create_pop = { culture = podlaski				religion = catholic		size = 7529							} # from byelorus
+			create_pop = { culture = kresowiak				religion = catholic		size = 6160							} # from byelorus
+			create_pop = { culture = novgorodian			religion = orthodox		size = 4791							} # from byelorus
+			create_pop = { culture = tverian				religion = orthodox		size = 3422							} # from byelorus
 		}
 	}
 	s:STATE_TVER = { #DONE
