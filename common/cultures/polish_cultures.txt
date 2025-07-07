@@ -1,6 +1,7 @@
 ﻿# culture_polish_galicyjski.txt
 galicyjski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 130 133 133 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -89,7 +90,8 @@ galicyjski= {
 
 # culture_polish_goralski.txt
 goralski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 104 109 97 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -178,7 +180,8 @@ goralski= {
 
 # culture_polish_kaszebsczi.txt
 kaszebsczi= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 86 70 80 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -267,7 +270,8 @@ kaszebsczi= {
 
 # culture_polish_kresowiak.txt
 kresowiak= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 150 142 105 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -356,7 +360,8 @@ kresowiak= {
 
 # culture_polish_kujawsko.txt
 kujawsko= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 85 78 86 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -445,7 +450,8 @@ kujawsko= {
 
 # culture_polish_malopolski.txt
 malopolski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 116 104 98 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -534,7 +540,8 @@ malopolski= {
 
 # culture_polish_mazowiecki.txt
 mazowiecki= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 85 76 84 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -623,7 +630,8 @@ mazowiecki= {
 
 # culture_polish_mazurski.txt
 mazurski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 85 76 84 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -712,7 +720,8 @@ mazurski= {
 
 # culture_polish_podlaski.txt
 podlaski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 143 128 103 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -801,7 +810,8 @@ podlaski= {
 
 # culture_polish_slonsko_godka.txt
 slonsko_godka= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 124 113 138 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -890,7 +900,8 @@ slonsko_godka= {
 
 # culture_polish_warminski.txt
 warminski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 42 54 68 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -979,7 +990,8 @@ warminski= {
 
 # culture_polish_wielkopolski.txt
 wielkopolski= {
-	color= hsv{ 0 0.22 0.5 }
+    color = rgb{ 127 99 99 }
+
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {

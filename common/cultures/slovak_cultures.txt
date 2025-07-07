@@ -1,6 +1,7 @@
 # culture_slovak_western_slovak.txt
 western_slovak= {
-        color= hsv{ 0.50 0.32 0.79 }
+        color = rgb{ 146 195 214 }
+
         religion = catholic
         traits = { west_slavic european_heritage }
         male_common_first_names = {
@@ -141,7 +142,8 @@ western_slovak= {
 
 # culture_slovak_central_slovak.txt
 central_slovak= {
-        color= hsv{ 0.50 0.32 0.79 }
+        color = rgb{ 134 167 167 }
+
         religion = catholic
         traits = { west_slavic european_heritage }
         male_common_first_names = {
@@ -282,7 +284,8 @@ central_slovak= {
 
 # culture_slovak_eastern_slovak.txt
 eastern_slovak= {
-        color= hsv{ 0.50 0.32 0.79 }
+        color = rgb{ 97 148 131 }
+
         religion = catholic
         traits = { west_slavic european_heritage }
         male_common_first_names = {
@@ -423,7 +426,8 @@ eastern_slovak= {
 
 # culture_slovak_lowland_slovak.txt
 lowland_slovak= {
-        color= hsv{ 0.50 0.32 0.79 }
+        color = rgb{ 191 227 199 }
+
         religion = catholic
         traits = { west_slavic european_heritage }
         male_common_first_names = {

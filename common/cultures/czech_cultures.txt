@@ -1,6 +1,7 @@
 ﻿# culture_czech.txt
 bohemian= {
-	color= hsv{ 0.66 0.32 0.99 }
+    color = rgb{ 133 156 190 }
+
 	religion = protestant
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -146,7 +147,8 @@ bohemian= {
 
 # culture_czech.txt
 moravian= {
-	color= hsv{ 0.66 0.32 0.99 }
+    color = rgb{ 163 182 239 }
+
 	religion = protestant
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {
@@ -292,7 +294,8 @@ moravian= {
 
 # culture_czech.txt
 lachian= {
-	color= hsv{ 0.66 0.32 0.99 }
+    color = rgb{ 146 151 214 }
+
 	religion = protestant
 	traits = { west_slavic european_heritage }
 	male_common_first_names = {

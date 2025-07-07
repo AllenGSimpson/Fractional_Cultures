@@ -444,7 +444,8 @@ kargopolian= {
 }
 
 novgorodian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 110 141 124 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -555,7 +556,8 @@ novgorodian= {
 }
 
 tverian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 83 118 92 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -666,7 +668,8 @@ tverian= {
 }
 
 muscovite= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 41 68 44 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1110,7 +1113,8 @@ lower_volgan= {
 }
 
 donian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 127 130 68 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1221,7 +1225,8 @@ donian= {
 }
 
 kubanian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 167 141 38 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1332,7 +1337,8 @@ kubanian= {
 }
 
 azovian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 84 99 72 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1443,7 +1449,8 @@ azovian= {
 }
 
 black_sea_littoral= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 106 112 89 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1554,7 +1561,8 @@ black_sea_littoral= {
 }
 
 slobodan= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 158 156 107 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1665,7 +1673,8 @@ slobodan= {
 }
 
 podolian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 144 145 120 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1776,118 +1785,8 @@ podolian= {
 }
 
 polesian= {
-	color= hsv{ 0.35 0.40 0.37 }
-	religion = orthodox
-	traits = { east_slavic european_heritage }
-	male_common_first_names = {
-		Aleksandr Alexei Andrei Anton
-		Boris
-		Dmitry
-		Fyodor
-		Gennady Giorgi Grigoriy
-		Igor Ivan
-		Kirill Konstantin
-		Lavr Leonid Lev
-		Maxim Mikhail
-		Nikita Nikolai
-		Oleg
-		Pavel Pyotr
-		Roman
-		Semyon Sergei
-		Valery Vasily Viktor Vladimir Vladislav
-		Yegor Yevgeny Yuri
-	}
-	female_common_first_names = {
-		Aleksandra Anastasiya Anna Avdotya
-		Daria
-		Elena Elizabeta Evgenia Evlalia
-		Kira
-		Lydia Lyobov
-		Maria
-		Natalya
-		Olga
-		Sofia
-		Tatiana
-		Varvara Vera Yekaterina Yulia
-		Xenia
-		Zinaida
-	}
-	noble_last_names = {
-		Adlerberg
-		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
-		Dolgorukov Demidov
-		Fikelmon
-		Greig Gruzinsky Golitsyn
-		Ignatiev Ivelich
-		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
-		Hoyningen-Huene
-		Lopukhin Lobanov-Rostovsky
-		Matveyev von_Mohrenheim Meshchersky
-		Orlov
-		Pistohlkors Putyatin
-		Rostopchin Rumyantsev Romanov
-		Saltykov
-		Tolstoy
-		Volkonsky
-		Witte
-		Yengalychev Yusupov Yuryevsky
-	}
-	common_last_names = {
-		Alexseyev Antonov Azarov
-		Badanov Brusilov Budyonny Bolkhovitinov
-		Chibisov
-		Denikin Dragomirov
-		Frolov
-		Golovin Grishin Gurko
-		Ivanov
-		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
-		Lazarev
-		Makarov Menshikov
-		Nakhimov Nebogatov Nikolaevich
-		Ostrovsky
-		Pavlov Putyatin
-		Rozhestvensky
-		Shuvalov Skobelev Surkov Sorokin
-		Tukhachevsky
-		Vorontsov Voroshilov
-		Yegorov Yudenich
-		Zavoyko
-	}
-	male_regal_first_names = {
-		Aleksandr Alexei
-		Ivan
-		Kirill Konstantin
-		Mikhail
-		Nikolai
-		Pavel Pyotr
-	}
-	female_regal_first_names = {
-		Anastasiya Anna
-		Elena Elizabeta Evgenia
-		Kira
-		Maria
-		Olga
-		Xenia
-		Yekaterina
-	}
-	regal_last_names = {
-		Belevsky-Zhukovsky
-		Konstantinovich
-		Mikhailovich
-		Nikolaevich
-		Pavlovich Paley
-		Romanov
-		Vladimirovich
-	}
+    color = rgb{ 143 136 112 }
 
-	ethnicities = {
-		1 = slavic
-	}
-	graphics = european
-}
-
-podlasian= {
-	color= hsv{ 0.35 0.40 0.37 }
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -1998,7 +1897,8 @@ podlasian= {
 }
 
 grodnian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 139 141 113 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -2109,118 +2009,8 @@ grodnian= {
 }
 
 vilnian= {
-	color= hsv{ 0.35 0.40 0.37 }
-	religion = orthodox
-	traits = { east_slavic european_heritage }
-	male_common_first_names = {
-		Aleksandr Alexei Andrei Anton
-		Boris
-		Dmitry
-		Fyodor
-		Gennady Giorgi Grigoriy
-		Igor Ivan
-		Kirill Konstantin
-		Lavr Leonid Lev
-		Maxim Mikhail
-		Nikita Nikolai
-		Oleg
-		Pavel Pyotr
-		Roman
-		Semyon Sergei
-		Valery Vasily Viktor Vladimir Vladislav
-		Yegor Yevgeny Yuri
-	}
-	female_common_first_names = {
-		Aleksandra Anastasiya Anna Avdotya
-		Daria
-		Elena Elizabeta Evgenia Evlalia
-		Kira
-		Lydia Lyobov
-		Maria
-		Natalya
-		Olga
-		Sofia
-		Tatiana
-		Varvara Vera Yekaterina Yulia
-		Xenia
-		Zinaida
-	}
-	noble_last_names = {
-		Adlerberg
-		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
-		Dolgorukov Demidov
-		Fikelmon
-		Greig Gruzinsky Golitsyn
-		Ignatiev Ivelich
-		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
-		Hoyningen-Huene
-		Lopukhin Lobanov-Rostovsky
-		Matveyev von_Mohrenheim Meshchersky
-		Orlov
-		Pistohlkors Putyatin
-		Rostopchin Rumyantsev Romanov
-		Saltykov
-		Tolstoy
-		Volkonsky
-		Witte
-		Yengalychev Yusupov Yuryevsky
-	}
-	common_last_names = {
-		Alexseyev Antonov Azarov
-		Badanov Brusilov Budyonny Bolkhovitinov
-		Chibisov
-		Denikin Dragomirov
-		Frolov
-		Golovin Grishin Gurko
-		Ivanov
-		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
-		Lazarev
-		Makarov Menshikov
-		Nakhimov Nebogatov Nikolaevich
-		Ostrovsky
-		Pavlov Putyatin
-		Rozhestvensky
-		Shuvalov Skobelev Surkov Sorokin
-		Tukhachevsky
-		Vorontsov Voroshilov
-		Yegorov Yudenich
-		Zavoyko
-	}
-	male_regal_first_names = {
-		Aleksandr Alexei
-		Ivan
-		Kirill Konstantin
-		Mikhail
-		Nikolai
-		Pavel Pyotr
-	}
-	female_regal_first_names = {
-		Anastasiya Anna
-		Elena Elizabeta Evgenia
-		Kira
-		Maria
-		Olga
-		Xenia
-		Yekaterina
-	}
-	regal_last_names = {
-		Belevsky-Zhukovsky
-		Konstantinovich
-		Mikhailovich
-		Nikolaevich
-		Pavlovich Paley
-		Romanov
-		Vladimirovich
-	}
+    color = rgb{ 132 158 126 }
 
-	ethnicities = {
-		1 = slavic
-	}
-	graphics = european
-}
-
-galician_volhynian= {
-	color= hsv{ 0.35 0.40 0.37 }
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -2331,7 +2121,8 @@ galician_volhynian= {
 }
 
 bessarabian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 116 115 86 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -2442,7 +2233,8 @@ bessarabian= {
 }
 
 trans_uralian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 94 126 80 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
@@ -2886,7 +2678,8 @@ sakhalin_amurian= {
 }
 
 russian= {
-	color= hsv{ 0.35 0.40 0.37 }
+    color = rgb{ 56 94 60 }
+
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names = {
